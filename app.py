@@ -166,17 +166,42 @@ IMPORTANCE_PATH = "outputs/feature_importance.csv"
 # ---------------------------------------------------------------------------
 # Data & Model Loader
 # ---------------------------------------------------------------------------
-@st.cache_resource(show_spinner=False)
+@st.cache_resource(show_spinner="Initializing model pipeline...")
 def load_model():
-    """Load pre-trained machine learning pipeline and metadata."""
-    if not os.path.exists(MODEL_PATH):
-        return None
-    try:
-        pipeline = joblib.load(MODEL_PATH)
-        return pipeline
-    except Exception as e:
-        st.error(f"Error loading model: {e}")
-        return None
+    """Load pre-trained machine learning pipeline and metadata.
+    Auto-trains and compiles directly in the current runtime if the pickle
+    is missing or incompatible with the host's scikit-learn version."""
+    if os.path.exists(MODEL_PATH):
+        try:
+            pipeline = joblib.load(MODEL_PATH)
+            # Verify inference to ensure complete class & schema compatibility
+            sample_check = pd.DataFrame(
+                [
+                    {
+                        "product_category": "Books",
+                        "product_price_inr": 500,
+                        "discount_percent": 10.0,
+                        "delivery_duration_days": 3.0,
+                        "customer_purchase_history": 2.0,
+                        "payment_method": "UPI",
+                    }
+                ]
+            )
+            _ = pipeline.predict(sample_check)
+            return pipeline
+        except Exception:
+            # Caught scikit-learn version mismatch or incompatible pickle
+            pass
+
+    # Self-healing fallback: Auto-train directly inside current environment
+    if os.path.exists(DATA_PATH):
+        try:
+            from train_model import run_training_pipeline
+            pipeline, _, _ = run_training_pipeline(DATA_PATH)
+            return pipeline
+        except Exception:
+            return None
+    return None
 
 
 @st.cache_data(show_spinner=False)
@@ -230,7 +255,8 @@ if pipeline is None:
         """
         ⚠️ **Trained Model Artifact Missing!**
         
-        The model file `models/return_prediction_model.pkl` could not be located.
+        The model file `models/return_prediction_model.pkl` could not be located,
+        and `data/ecommerce_returns_dataset.csv` was not found to auto-train.
         
         Please run the training pipeline first:
         ```bash
@@ -314,6 +340,16 @@ with st.sidebar:
                 ),
                 hide_index=True,
             )
+
+    st.markdown("---")
+    if st.button("🔄 Re-benchmark & Train Models", use_container_width=True):
+        with st.spinner("Retraining and compiling pipeline..."):
+            st.cache_resource.clear()
+            st.cache_data.clear()
+            from train_model import run_training_pipeline
+            run_training_pipeline(DATA_PATH)
+        st.success("Pipeline refreshed successfully!")
+        st.rerun()
 
 
 # ---------------------------------------------------------------------------

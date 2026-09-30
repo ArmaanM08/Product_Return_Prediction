@@ -351,8 +351,14 @@ def train_and_evaluate_models(X, y):
     print(f"3. Model Selection Decision:")
     print(f"   {rationale}")
     print("=" * 70)
+    return best_pipeline, comparison_df, importance_df
+
+
+def run_training_pipeline(data_path: str = DATA_PATH):
+    """Convenience helper to load data, run benchmarks, and return trained artifacts."""
+    X, y = prepare_data(data_path)
+    return train_and_evaluate_models(X, y)
 
 
 if __name__ == "__main__":
-    X, y = prepare_data(DATA_PATH)
-    train_and_evaluate_models(X, y)
+    run_training_pipeline(DATA_PATH)

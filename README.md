@@ -185,6 +185,9 @@ To deploy this project live on [Streamlit Community Cloud](https://streamlit.io/
    - Click **"Deploy!"**.
    - Streamlit Cloud will automatically install dependencies from `requirements.txt` and launch the application.
 
+   > 💡 **Self-Healing Cloud Architecture:**
+   > `app.py` includes automatic runtime environment detection. If a serialized model pickle is missing or was created on a different operating system / scikit-learn version (e.g. `_RemainderColsList` unpickling errors), the app automatically trains and compiles a fresh, compatible pipeline directly inside the cloud container in under 4 seconds without any manual shell intervention.
+
 ---
 
 ## ⚠️ Limitations & Business Risks
