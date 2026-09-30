@@ -1,0 +1,1501 @@
+order_id,product_category,product_price_inr,discount_percent,delivery_duration_days,customer_purchase_history,payment_method,returned
+ORD00001,Electronics,2321,34.0,2.1,,Cash on Delivery,0
+ORD00002,Fashion,896,35.9,2.7,0,Credit Card,0
+ORD00003,Books,377,15.4,6.6,1,Wallet,0
+ORD00004,Home & Kitchen,1549,11.6,4.5,0,Credit Card,0
+ORD00005,Electronics,1477,34.3,,1,Debit Card,0
+ORD00006,Electronics,1636,43.1,3.6,3,Debit Card,0
+ORD00007,Books,348,31.0,2.0,,Debit Card,0
+ORD00008,Electronics,1894,34.3,1.8,5,Wallet,1
+ORD00009,Home & Kitchen,1606,30.3,6.6,0,Debit Card,1
+ORD00010,Fashion,1962,36.9,6.0,,Cash on Delivery,0
+ORD00011,Home & Kitchen,1372,23.2,,8,Debit Card,0
+ORD00012,Beauty,519,21.0,3.4,5,Wallet,0
+ORD00013,Electronics,3498,3.8,5.5,1,Debit Card,0
+ORD00014,Books,317,40.0,,2,UPI,0
+ORD00015,Electronics,7103,13.7,6.2,3,Debit Card,0
+ORD00016,Grocery,245,25.3,4.5,3,Credit Card,0
+ORD00017,Books,469,17.3,2.1,5,Credit Card,0
+ORD00018,Fashion,2005,13.9,1.3,1,Credit Card,0
+ORD00019,Books,1075,36.0,4.6,4,Debit Card,0
+ORD00020,Fashion,1796,46.9,7.2,5,Credit Card,1
+ORD00021,Sports,1333,30.7,,9,Debit Card,1
+ORD00022,Sports,1043,36.3,3.3,1,Credit Card,0
+ORD00023,Home & Kitchen,942,13.3,4.8,5,Credit Card,0
+ORD00024,Sports,1370,35.6,4.1,1,Wallet,1
+ORD00025,Electronics,2255,34.4,4.4,4,UPI,0
+ORD00026,Fashion,1380,31.6,5.5,5,UPI,0
+ORD00027,Home & Kitchen,1290,8.8,2.5,4,Credit Card,0
+ORD00028,Beauty,502,8.5,8.1,4,Wallet,0
+ORD00029,Fashion,589,9.9,3.8,1,Debit Card,0
+ORD00030,Beauty,237,17.7,4.1,2,UPI,0
+ORD00031,Grocery,566,45.2,2.2,0,UPI,1
+ORD00032,Beauty,623,22.6,3.4,,Debit Card,0
+ORD00033,Home & Kitchen,1017,20.9,3.9,,Debit Card,0
+ORD00034,Grocery,303,1.9,8.3,0,Debit Card,0
+ORD00035,Grocery,655,31.3,4.8,7,Debit Card,0
+ORD00036,Sports,1514,15.7,5.9,4,Debit Card,0
+ORD00037,Home & Kitchen,1305,26.7,4.1,1,Credit Card,0
+ORD00038,Books,299,34.8,1.0,3,Credit Card,0
+ORD00039,Electronics,6136,17.7,6.1,1,Cash on Delivery,0
+ORD00040,Fashion,1055,35.2,4.5,5,Credit Card,1
+ORD00041,Grocery,553,38.5,7.8,1,Cash on Delivery,0
+ORD00042,Electronics,2640,46.8,4.6,0,Debit Card,1
+ORD00043,Fashion,1562,44.3,4.8,9,UPI,1
+ORD00044,Grocery,232,40.4,7.2,1,Cash on Delivery,0
+ORD00045,Electronics,2977,15.2,1.6,2,UPI,1
+ORD00046,Home & Kitchen,3141,28.3,5.7,3,UPI,1
+ORD00047,Electronics,2297,14.4,7.5,0,Cash on Delivery,0
+ORD00048,Sports,1551,25.0,6.1,,Credit Card,0
+ORD00049,Beauty,689,29.5,3.1,2,Debit Card,0
+ORD00050,Fashion,722,14.9,2.7,5,UPI,0
+ORD00051,Books,417,34.9,3.2,5,Wallet,0
+ORD00052,Fashion,1079,23.2,4.9,7,Wallet,0
+ORD00053,Fashion,1153,9.7,3.4,3,UPI,0
+ORD00054,Books,564,2.4,4.8,1,Credit Card,0
+ORD00055,Fashion,1208,39.0,2.4,1,UPI,0
+ORD00056,Fashion,816,43.6,5.6,3,Cash on Delivery,1
+ORD00057,Electronics,1617,10.6,4.1,,Cash on Delivery,0
+ORD00058,Fashion,612,25.0,2.1,0,Cash on Delivery,0
+ORD00059,Home & Kitchen,704,19.4,4.3,10,Credit Card,0
+ORD00060,Fashion,1606,35.2,5.2,6,Credit Card,1
+ORD00061,Fashion,861,22.6,2.3,9,UPI,0
+ORD00062,Books,638,15.3,3.9,11,UPI,0
+ORD00063,Beauty,524,11.9,1.5,1,UPI,0
+ORD00064,Home & Kitchen,896,20.9,4.6,0,UPI,0
+ORD00065,Books,602,32.1,8.7,0,Debit Card,0
+ORD00066,Fashion,1126,41.0,4.9,1,Wallet,1
+ORD00067,Home & Kitchen,768,41.6,1.0,1,Debit Card,0
+ORD00068,Fashion,629,29.8,4.3,1,Credit Card,0
+ORD00069,Fashion,1351,35.2,6.4,6,UPI,0
+ORD00070,Home & Kitchen,1086,19.7,4.5,,UPI,0
+ORD00071,Fashion,666,35.3,4.7,0,UPI,0
+ORD00072,Sports,1619,35.8,4.7,6,Credit Card,0
+ORD00073,Grocery,255,29.8,2.7,,Credit Card,0
+ORD00074,Fashion,1087,25.5,4.7,0,Debit Card,0
+ORD00075,Sports,4152,53.3,3.1,0,Credit Card,0
+ORD00076,Fashion,965,0.0,4.0,4,Credit Card,0
+ORD00077,Electronics,2266,52.6,8.3,1,Credit Card,0
+ORD00078,Sports,714,34.6,3.1,0,Credit Card,1
+ORD00079,Beauty,497,19.6,7.7,,Credit Card,0
+ORD00080,Books,376,30.7,6.4,1,Credit Card,0
+ORD00081,Fashion,4410,42.7,6.2,6,Debit Card,0
+ORD00082,Electronics,4484,28.8,1.5,3,Credit Card,0
+ORD00083,Electronics,2776,29.5,4.9,5,Wallet,0
+ORD00084,Electronics,4151,9.1,5.2,2,UPI,1
+ORD00085,Fashion,1580,42.0,,9,Credit Card,0
+ORD00086,Grocery,420,27.3,1.1,,Credit Card,0
+ORD00087,Electronics,1932,33.1,3.0,3,UPI,0
+ORD00088,Fashion,644,21.7,6.9,0,Wallet,1
+ORD00089,Books,430,20.8,7.1,,Wallet,0
+ORD00090,Fashion,1050,17.7,6.1,2,Cash on Delivery,0
+ORD00091,Electronics,2002,35.7,5.6,4,Credit Card,0
+ORD00092,Grocery,188,38.6,6.0,3,UPI,0
+ORD00093,Books,438,22.2,4.6,2,Credit Card,0
+ORD00094,Fashion,1252,9.2,,5,Credit Card,0
+ORD00095,Books,818,15.8,7.2,3,Credit Card,0
+ORD00096,Fashion,1035,44.8,3.1,3,UPI,0
+ORD00097,Grocery,497,35.7,6.3,1,Cash on Delivery,0
+ORD00098,Books,197,39.1,4.7,5,UPI,0
+ORD00099,Fashion,785,44.3,7.2,2,Credit Card,1
+ORD00100,Beauty,545,38.2,1.0,4,Credit Card,0
+ORD00101,Sports,1462,19.4,3.8,4,UPI,0
+ORD00102,Sports,1408,5.2,,2,Cash on Delivery,1
+ORD00103,Home & Kitchen,955,21.1,4.9,,Credit Card,0
+ORD00104,Fashion,725,30.7,2.9,2,Credit Card,0
+ORD00105,Books,390,25.6,,3,Cash on Delivery,0
+ORD00106,Sports,668,0.0,3.7,5,Debit Card,0
+ORD00107,Fashion,1752,27.6,2.3,,UPI,0
+ORD00108,Home & Kitchen,1987,16.0,,5,UPI,0
+ORD00109,Sports,1753,29.6,5.3,0,UPI,0
+ORD00110,Fashion,1212,28.9,5.0,4,UPI,1
+ORD00111,Fashion,1086,49.4,,2,Debit Card,0
+ORD00112,Electronics,1802,15.3,,5,Credit Card,0
+ORD00113,Books,317,36.1,2.7,1,UPI,1
+ORD00114,Home & Kitchen,1664,22.5,4.0,1,Debit Card,0
+ORD00115,Fashion,1205,52.4,5.6,,Debit Card,1
+ORD00116,Fashion,890,16.9,5.5,0,Wallet,0
+ORD00117,Books,458,30.0,,5,Credit Card,0
+ORD00118,Home & Kitchen,1346,6.4,3.8,1,UPI,0
+ORD00119,Fashion,722,22.8,6.4,2,Cash on Delivery,0
+ORD00120,Sports,798,30.6,2.8,5,Debit Card,0
+ORD00121,Books,593,9.8,6.4,1,Wallet,1
+ORD00122,Fashion,2132,30.1,6.6,5,UPI,1
+ORD00123,Beauty,1011,12.1,1.0,5,Debit Card,0
+ORD00124,Books,395,32.9,5.9,0,Debit Card,0
+ORD00125,Electronics,1954,29.2,4.8,1,UPI,0
+ORD00126,Electronics,2333,38.7,6.4,0,Cash on Delivery,1
+ORD00127,Sports,904,27.3,6.3,5,Cash on Delivery,1
+ORD00128,Beauty,500,33.1,7.5,1,Cash on Delivery,0
+ORD00129,Fashion,1716,31.6,4.5,3,Cash on Delivery,0
+ORD00130,Electronics,1699,17.6,5.7,1,Credit Card,1
+ORD00131,Home & Kitchen,1156,27.5,4.3,4,UPI,1
+ORD00132,Fashion,695,32.8,4.6,3,Cash on Delivery,0
+ORD00133,Home & Kitchen,1161,5.6,6.2,2,Cash on Delivery,0
+ORD00134,Electronics,3695,28.3,4.4,,UPI,0
+ORD00135,Home & Kitchen,2015,6.3,4.3,0,Wallet,0
+ORD00136,Fashion,2197,25.6,7.4,7,Cash on Delivery,0
+ORD00137,Beauty,1117,6.5,7.8,,Cash on Delivery,0
+ORD00138,Home & Kitchen,1621,20.6,5.7,0,Debit Card,0
+ORD00139,Fashion,903,38.3,4.7,5,UPI,0
+ORD00140,Grocery,487,30.4,4.2,1,Wallet,0
+ORD00141,Books,625,7.3,4.1,1,Debit Card,0
+ORD00142,Electronics,1547,8.4,2.1,1,Wallet,0
+ORD00143,Beauty,558,30.9,5.1,,Wallet,0
+ORD00144,Fashion,1458,31.3,6.3,4,Cash on Delivery,0
+ORD00145,Home & Kitchen,1173,6.4,6.2,3,UPI,0
+ORD00146,Fashion,843,38.1,5.5,4,Debit Card,0
+ORD00147,Home & Kitchen,1625,28.4,6.2,6,Debit Card,0
+ORD00148,Beauty,551,24.2,5.2,0,Credit Card,0
+ORD00149,Electronics,2706,37.7,,5,Credit Card,0
+ORD00150,Sports,2044,18.5,5.5,0,Cash on Delivery,1
+ORD00151,Sports,1160,23.8,3.9,9,Wallet,1
+ORD00152,Books,504,35.6,7.1,4,UPI,1
+ORD00153,Fashion,868,16.7,9.6,0,Cash on Delivery,0
+ORD00154,Home & Kitchen,2286,27.5,4.4,1,Cash on Delivery,1
+ORD00155,Beauty,413,29.5,5.7,7,Credit Card,0
+ORD00156,Beauty,360,20.2,4.3,4,Credit Card,0
+ORD00157,Electronics,3793,29.9,6.7,0,UPI,0
+ORD00158,Books,606,6.3,3.2,3,Credit Card,1
+ORD00159,Books,772,9.9,8.2,4,Credit Card,0
+ORD00160,Home & Kitchen,1350,6.6,5.8,0,Credit Card,0
+ORD00161,Fashion,1049,36.6,5.4,3,UPI,1
+ORD00162,Electronics,1316,34.8,3.2,0,Cash on Delivery,1
+ORD00163,Electronics,1309,29.9,1.0,1,Debit Card,0
+ORD00164,Books,651,34.4,5.4,4,UPI,0
+ORD00165,Electronics,2834,54.8,6.7,1,Cash on Delivery,0
+ORD00166,Electronics,4475,42.1,4.0,1,Cash on Delivery,0
+ORD00167,Electronics,1859,25.6,5.2,1,Debit Card,0
+ORD00168,Home & Kitchen,1859,32.2,4.4,5,UPI,1
+ORD00169,Grocery,213,9.6,1.0,3,UPI,0
+ORD00170,Beauty,459,34.7,3.4,5,Debit Card,0
+ORD00171,Grocery,605,33.0,4.5,0,Credit Card,0
+ORD00172,Sports,1054,21.2,3.8,6,Credit Card,0
+ORD00173,Sports,878,35.3,6.8,0,UPI,1
+ORD00174,Sports,2090,0.0,1.8,6,UPI,0
+ORD00175,Electronics,3636,28.7,5.4,1,Cash on Delivery,1
+ORD00176,Books,346,29.3,2.6,4,Credit Card,0
+ORD00177,Electronics,5795,10.7,5.1,4,UPI,0
+ORD00178,Books,384,25.9,,9,UPI,0
+ORD00179,Beauty,760,12.8,6.5,3,Credit Card,0
+ORD00180,Home & Kitchen,1705,44.1,3.7,2,Wallet,0
+ORD00181,Fashion,740,22.8,4.2,3,UPI,0
+ORD00182,Home & Kitchen,1571,11.0,,6,Wallet,1
+ORD00183,Fashion,650,25.5,,0,Wallet,0
+ORD00184,Electronics,1699,32.1,4.1,4,Debit Card,0
+ORD00185,Sports,881,34.4,3.8,3,Debit Card,0
+ORD00186,Electronics,1404,40.5,5.9,4,Wallet,0
+ORD00187,Sports,755,31.6,8.3,5,Debit Card,0
+ORD00188,Electronics,3043,21.9,3.7,0,UPI,1
+ORD00189,Fashion,3069,38.3,5.5,9,Credit Card,0
+ORD00190,Books,404,13.7,3.3,,Debit Card,0
+ORD00191,Fashion,1072,35.6,1.5,,UPI,1
+ORD00192,Home & Kitchen,1404,21.3,5.0,3,Debit Card,0
+ORD00193,Home & Kitchen,1181,25.7,2.5,5,Debit Card,0
+ORD00194,Beauty,688,7.8,4.2,3,Credit Card,1
+ORD00195,Grocery,494,24.4,3.3,4,Cash on Delivery,0
+ORD00196,Fashion,764,50.5,4.4,4,Debit Card,1
+ORD00197,Home & Kitchen,1035,5.5,3.8,0,Wallet,0
+ORD00198,Sports,1450,26.7,,3,Wallet,0
+ORD00199,Sports,1380,18.3,3.3,3,Debit Card,0
+ORD00200,Beauty,740,33.2,3.9,4,Credit Card,0
+ORD00201,Books,737,24.1,4.6,3,Debit Card,0
+ORD00202,Fashion,695,36.7,5.0,3,Credit Card,0
+ORD00203,Beauty,804,32.1,1.8,3,Credit Card,0
+ORD00204,Fashion,1103,9.6,3.6,0,Credit Card,1
+ORD00205,Sports,685,0.0,6.1,5,Debit Card,0
+ORD00206,Electronics,1201,40.4,,1,Wallet,0
+ORD00207,Fashion,1578,39.9,6.3,3,Credit Card,0
+ORD00208,Grocery,520,6.6,3.1,4,UPI,0
+ORD00209,Grocery,148,11.4,3.3,3,Credit Card,0
+ORD00210,Books,289,12.7,4.5,6,UPI,0
+ORD00211,Grocery,519,41.0,6.3,6,Cash on Delivery,1
+ORD00212,Fashion,2041,20.7,3.4,5,Debit Card,0
+ORD00213,Fashion,1734,36.4,4.4,3,Credit Card,0
+ORD00214,Electronics,1597,22.6,6.7,6,Debit Card,1
+ORD00215,Beauty,337,30.1,4.3,6,Wallet,0
+ORD00216,Fashion,1525,36.7,5.4,1,Credit Card,0
+ORD00217,Sports,1069,22.1,4.5,6,Credit Card,0
+ORD00218,Books,444,37.7,3.9,0,UPI,1
+ORD00219,Beauty,958,35.2,4.5,3,Cash on Delivery,0
+ORD00220,Electronics,2214,34.5,5.6,6,Credit Card,0
+ORD00221,Fashion,707,46.0,5.5,2,Debit Card,1
+ORD00222,Fashion,742,15.1,4.0,7,UPI,0
+ORD00223,Grocery,305,3.5,2.3,2,Debit Card,0
+ORD00224,Beauty,1143,31.0,4.4,2,UPI,0
+ORD00225,Electronics,3729,30.5,2.7,0,Credit Card,0
+ORD00226,Electronics,2380,11.1,4.8,3,Credit Card,0
+ORD00227,Home & Kitchen,1414,21.2,4.9,9,Wallet,0
+ORD00228,Fashion,787,24.0,6.0,4,Cash on Delivery,0
+ORD00229,Beauty,453,42.6,5.5,4,Credit Card,0
+ORD00230,Electronics,1233,14.0,3.7,4,Cash on Delivery,0
+ORD00231,Electronics,3287,22.4,7.3,3,Debit Card,0
+ORD00232,Fashion,968,32.9,6.4,2,Cash on Delivery,1
+ORD00233,Electronics,1239,23.2,2.4,3,UPI,0
+ORD00234,Sports,1980,35.3,2.7,5,Wallet,0
+ORD00235,Books,359,5.3,7.5,1,Debit Card,0
+ORD00236,Books,650,24.0,2.5,2,Debit Card,0
+ORD00237,Electronics,1595,26.7,4.0,8,Wallet,0
+ORD00238,Fashion,705,41.5,6.3,,Credit Card,1
+ORD00239,Beauty,811,22.6,6.1,4,UPI,0
+ORD00240,Sports,822,30.5,3.4,7,Credit Card,0
+ORD00241,Sports,623,40.2,4.1,4,UPI,1
+ORD00242,Fashion,618,49.4,1.6,0,Credit Card,1
+ORD00243,Fashion,884,35.1,4.9,,Cash on Delivery,1
+ORD00244,Home & Kitchen,2853,21.7,6.8,5,UPI,0
+ORD00245,Fashion,1900,26.0,4.7,0,Debit Card,0
+ORD00246,Home & Kitchen,1820,6.6,7.0,,Wallet,0
+ORD00247,Beauty,472,36.2,2.6,4,UPI,0
+ORD00248,Fashion,1110,28.5,6.9,6,Debit Card,0
+ORD00249,Electronics,2218,41.9,2.6,1,Cash on Delivery,1
+ORD00250,Electronics,2357,11.9,2.6,0,Credit Card,0
+ORD00251,Fashion,628,24.4,3.5,4,UPI,1
+ORD00252,Books,680,28.7,5.9,1,Cash on Delivery,0
+ORD00253,Home & Kitchen,1055,15.5,5.0,0,Wallet,0
+ORD00254,Books,667,19.5,2.6,5,Debit Card,0
+ORD00255,Fashion,918,33.6,6.8,1,UPI,0
+ORD00256,Fashion,1015,23.6,3.8,4,Debit Card,0
+ORD00257,Home & Kitchen,1965,20.9,5.6,0,Credit Card,0
+ORD00258,Electronics,1542,43.8,2.6,2,UPI,0
+ORD00259,Fashion,995,19.7,,7,Cash on Delivery,0
+ORD00260,Beauty,518,27.9,7.9,7,Credit Card,0
+ORD00261,Home & Kitchen,1995,12.1,7.3,0,Debit Card,0
+ORD00262,Home & Kitchen,382,30.1,3.3,4,Credit Card,0
+ORD00263,Sports,1664,34.0,4.2,5,Credit Card,0
+ORD00264,Sports,1457,38.0,5.7,7,Credit Card,0
+ORD00265,Sports,1340,18.8,5.9,4,Credit Card,0
+ORD00266,Home & Kitchen,1894,9.2,5.4,8,Wallet,1
+ORD00267,Fashion,341,18.2,5.0,2,Cash on Delivery,1
+ORD00268,Books,601,21.1,3.3,3,Debit Card,0
+ORD00269,Fashion,1119,46.6,4.7,1,Debit Card,1
+ORD00270,Home & Kitchen,1297,25.1,3.8,,UPI,1
+ORD00271,Beauty,1364,28.1,3.2,3,UPI,0
+ORD00272,Beauty,911,25.6,4.3,6,Wallet,0
+ORD00273,Beauty,401,2.3,,4,Credit Card,0
+ORD00274,Home & Kitchen,2224,7.9,6.6,5,Cash on Delivery,0
+ORD00275,Beauty,725,26.9,4.1,1,UPI,0
+ORD00276,Home & Kitchen,3106,8.6,6.5,2,Debit Card,0
+ORD00277,Home & Kitchen,1221,4.0,4.6,1,Wallet,0
+ORD00278,Sports,1484,0.4,3.8,4,UPI,0
+ORD00279,Beauty,639,8.8,6.0,0,Cash on Delivery,0
+ORD00280,Books,317,10.2,8.4,6,UPI,0
+ORD00281,Electronics,2481,30.1,3.6,2,Wallet,0
+ORD00282,Beauty,506,30.6,6.4,3,Credit Card,0
+ORD00283,Fashion,966,15.3,6.5,0,Credit Card,0
+ORD00284,Electronics,2510,20.5,,2,Wallet,0
+ORD00285,Electronics,2057,40.2,,7,UPI,0
+ORD00286,Home & Kitchen,1160,24.4,4.4,4,Wallet,0
+ORD00287,Fashion,621,29.1,5.4,1,Debit Card,0
+ORD00288,Fashion,1151,39.9,5.6,3,Debit Card,0
+ORD00289,Books,870,7.1,4.3,2,Cash on Delivery,0
+ORD00290,Fashion,863,29.8,5.4,0,Cash on Delivery,1
+ORD00291,Grocery,260,21.0,3.9,2,Debit Card,0
+ORD00292,Fashion,807,36.2,2.9,0,Debit Card,0
+ORD00293,Beauty,613,12.5,2.7,8,UPI,0
+ORD00294,Home & Kitchen,871,16.9,3.8,0,Debit Card,0
+ORD00295,Electronics,1151,31.2,1.5,5,Credit Card,0
+ORD00296,Books,140,24.4,6.2,1,Cash on Delivery,0
+ORD00297,Books,664,9.1,4.6,0,UPI,0
+ORD00298,Fashion,1397,43.6,,3,Wallet,1
+ORD00299,Fashion,1430,36.2,2.8,4,Debit Card,0
+ORD00300,Grocery,482,38.1,3.7,3,Cash on Delivery,0
+ORD00301,Home & Kitchen,2049,41.4,5.5,0,Debit Card,0
+ORD00302,Electronics,2622,18.5,2.5,8,UPI,0
+ORD00303,Electronics,1801,16.7,2.1,1,Cash on Delivery,0
+ORD00304,Beauty,1143,32.7,6.4,4,Credit Card,0
+ORD00305,Grocery,300,15.5,,1,Wallet,0
+ORD00306,Fashion,2082,48.5,3.1,1,Debit Card,0
+ORD00307,Fashion,1839,26.6,7.3,0,Cash on Delivery,0
+ORD00308,Sports,538,41.1,5.8,1,Cash on Delivery,0
+ORD00309,Electronics,2085,8.4,2.7,1,UPI,0
+ORD00310,Sports,908,23.6,4.5,7,Cash on Delivery,0
+ORD00311,Fashion,799,40.7,5.4,4,Debit Card,1
+ORD00312,Electronics,2062,13.7,4.3,1,UPI,0
+ORD00313,Electronics,4464,37.5,3.7,6,Debit Card,0
+ORD00314,Beauty,479,30.6,1.9,2,Wallet,0
+ORD00315,Electronics,1801,11.4,5.0,5,Credit Card,1
+ORD00316,Electronics,1392,39.1,7.3,1,UPI,1
+ORD00317,Fashion,1384,30.4,6.0,0,Credit Card,1
+ORD00318,Fashion,1720,20.8,,8,UPI,0
+ORD00319,Electronics,3173,36.3,6.3,2,Credit Card,0
+ORD00320,Beauty,890,18.3,6.9,6,Credit Card,0
+ORD00321,Beauty,736,27.2,4.0,1,Debit Card,0
+ORD00322,Fashion,727,40.8,7.3,0,Debit Card,0
+ORD00323,Fashion,1369,30.0,5.7,5,UPI,0
+ORD00324,Home & Kitchen,1286,17.9,6.2,0,Wallet,0
+ORD00325,Electronics,4345,32.5,6.0,3,Cash on Delivery,1
+ORD00326,Grocery,394,12.2,7.1,2,Debit Card,0
+ORD00327,Beauty,862,43.3,6.6,2,Credit Card,0
+ORD00328,Grocery,285,14.6,2.9,,UPI,0
+ORD00329,Home & Kitchen,2281,18.6,,2,Credit Card,1
+ORD00330,Electronics,2465,42.5,5.0,4,UPI,1
+ORD00331,Electronics,1504,22.5,2.3,0,Credit Card,0
+ORD00332,Fashion,667,13.6,6.9,0,Debit Card,0
+ORD00333,Home & Kitchen,2151,22.1,4.0,6,Credit Card,1
+ORD00334,Beauty,932,19.9,3.2,2,UPI,0
+ORD00335,Beauty,452,15.3,5.7,2,Wallet,1
+ORD00336,Fashion,1392,41.2,3.7,3,Credit Card,0
+ORD00337,Home & Kitchen,1454,13.4,4.3,0,Debit Card,0
+ORD00338,Fashion,1040,28.1,,1,UPI,0
+ORD00339,Electronics,1815,29.9,4.0,,Credit Card,0
+ORD00340,Beauty,670,42.6,4.7,7,Wallet,0
+ORD00341,Books,361,42.7,,10,Debit Card,0
+ORD00342,Home & Kitchen,1200,35.3,3.9,1,Credit Card,0
+ORD00343,Electronics,3261,35.4,2.8,,Debit Card,0
+ORD00344,Books,545,11.7,1.3,3,Credit Card,0
+ORD00345,Home & Kitchen,1214,30.3,8.0,3,Debit Card,0
+ORD00346,Fashion,681,28.2,6.2,8,Debit Card,0
+ORD00347,Home & Kitchen,1344,36.2,8.4,0,Cash on Delivery,0
+ORD00348,Home & Kitchen,1508,0.0,4.7,2,Wallet,0
+ORD00349,Sports,1649,30.9,1.9,3,Credit Card,0
+ORD00350,Fashion,1601,34.6,2.4,5,UPI,0
+ORD00351,Fashion,2491,37.7,7.5,2,UPI,1
+ORD00352,Home & Kitchen,2463,7.6,5.8,5,UPI,1
+ORD00353,Home & Kitchen,1661,29.1,1.6,1,Credit Card,0
+ORD00354,Beauty,982,40.4,3.2,,UPI,0
+ORD00355,Electronics,2467,34.8,1.2,5,UPI,0
+ORD00356,Books,345,28.9,7.2,9,UPI,0
+ORD00357,Electronics,2140,30.3,5.9,,UPI,0
+ORD00358,Sports,2249,24.6,2.4,0,Debit Card,0
+ORD00359,Books,588,19.8,5.5,8,Cash on Delivery,0
+ORD00360,Sports,1687,26.4,4.8,,Cash on Delivery,1
+ORD00361,Grocery,440,9.7,5.1,0,Credit Card,0
+ORD00362,Books,294,16.5,5.7,4,UPI,0
+ORD00363,Electronics,2988,52.4,2.1,0,UPI,1
+ORD00364,Beauty,567,29.5,3.8,0,UPI,0
+ORD00365,Fashion,619,28.2,6.9,6,UPI,0
+ORD00366,Home & Kitchen,965,5.9,3.4,0,Wallet,0
+ORD00367,Electronics,3312,18.2,3.6,2,UPI,0
+ORD00368,Electronics,2419,25.1,3.2,5,UPI,0
+ORD00369,Fashion,373,37.4,5.0,4,Debit Card,1
+ORD00370,Beauty,561,48.1,4.5,,Debit Card,0
+ORD00371,Fashion,821,37.2,5.6,6,Cash on Delivery,0
+ORD00372,Grocery,436,38.9,3.6,0,Debit Card,0
+ORD00373,Fashion,498,27.9,6.5,3,Credit Card,1
+ORD00374,Beauty,626,16.7,3.7,3,Cash on Delivery,0
+ORD00375,Home & Kitchen,1280,20.0,3.1,0,UPI,0
+ORD00376,Electronics,1795,45.5,5.9,,Credit Card,1
+ORD00377,Home & Kitchen,1678,18.7,2.5,2,Credit Card,0
+ORD00378,Sports,1595,18.1,5.6,2,Cash on Delivery,0
+ORD00379,Fashion,926,33.6,4.5,,UPI,0
+ORD00380,Books,593,5.7,3.9,3,Wallet,0
+ORD00381,Fashion,788,25.8,1.6,6,Credit Card,0
+ORD00382,Electronics,2352,36.1,,10,Credit Card,0
+ORD00383,Fashion,860,48.0,7.4,5,Debit Card,1
+ORD00384,Fashion,686,42.2,,0,Debit Card,0
+ORD00385,Beauty,693,28.9,5.8,4,Cash on Delivery,1
+ORD00386,Books,870,26.2,2.3,1,Credit Card,0
+ORD00387,Electronics,2797,2.7,5.1,,Debit Card,0
+ORD00388,Electronics,2602,21.0,4.9,2,Credit Card,0
+ORD00389,Beauty,873,29.1,3.5,2,Wallet,0
+ORD00390,Fashion,1264,33.3,3.9,2,UPI,0
+ORD00391,Grocery,519,30.7,6.9,,Debit Card,0
+ORD00392,Books,529,11.9,5.8,,Cash on Delivery,0
+ORD00393,Fashion,922,32.9,4.8,0,Credit Card,1
+ORD00394,Beauty,529,6.8,4.6,,Cash on Delivery,0
+ORD00395,Home & Kitchen,765,29.7,5.7,2,Credit Card,1
+ORD00396,Home & Kitchen,2329,11.3,7.3,0,Cash on Delivery,0
+ORD00397,Fashion,609,16.1,3.2,10,Credit Card,0
+ORD00398,Sports,733,23.2,4.3,5,Wallet,0
+ORD00399,Sports,1129,8.9,5.5,4,Credit Card,0
+ORD00400,Books,569,34.6,6.3,0,Cash on Delivery,1
+ORD00401,Home & Kitchen,948,31.8,4.2,3,Debit Card,1
+ORD00402,Sports,1546,0.3,5.8,0,UPI,0
+ORD00403,Beauty,1752,22.4,5.6,2,Credit Card,0
+ORD00404,Electronics,2127,33.7,5.8,2,Debit Card,0
+ORD00405,Home & Kitchen,1697,23.4,4.7,,Credit Card,0
+ORD00406,Beauty,774,23.9,2.7,2,UPI,0
+ORD00407,Beauty,658,23.3,2.7,8,UPI,0
+ORD00408,Fashion,1075,34.6,3.8,1,UPI,0
+ORD00409,Beauty,787,20.5,5.5,1,UPI,1
+ORD00410,Fashion,1522,19.2,4.4,4,Cash on Delivery,0
+ORD00411,Books,523,13.9,2.6,0,Debit Card,0
+ORD00412,Fashion,1219,25.2,4.8,,Cash on Delivery,0
+ORD00413,Beauty,1370,11.4,5.3,4,Debit Card,0
+ORD00414,Books,861,26.5,6.8,6,Credit Card,0
+ORD00415,Fashion,627,39.9,1.0,2,UPI,0
+ORD00416,Fashion,947,24.2,5.8,4,Credit Card,0
+ORD00417,Books,408,19.8,6.9,5,UPI,0
+ORD00418,Fashion,1022,24.3,2.7,,Debit Card,0
+ORD00419,Grocery,414,12.8,2.8,2,Cash on Delivery,1
+ORD00420,Fashion,1373,46.7,3.3,3,UPI,0
+ORD00421,Electronics,4692,32.2,5.0,0,Credit Card,0
+ORD00422,Fashion,772,45.0,4.9,0,Debit Card,0
+ORD00423,Beauty,1027,23.4,1.5,0,Credit Card,0
+ORD00424,Beauty,718,5.2,7.0,2,Cash on Delivery,0
+ORD00425,Fashion,868,37.7,6.8,6,UPI,0
+ORD00426,Electronics,1332,17.1,4.3,1,Cash on Delivery,0
+ORD00427,Fashion,1006,28.3,6.6,0,Credit Card,0
+ORD00428,Beauty,760,35.6,8.5,0,Cash on Delivery,0
+ORD00429,Beauty,828,27.3,4.2,5,Credit Card,0
+ORD00430,Beauty,598,27.7,5.2,0,Debit Card,1
+ORD00431,Electronics,3448,15.1,,3,Credit Card,0
+ORD00432,Fashion,972,12.4,5.2,6,Debit Card,0
+ORD00433,Books,506,18.4,5.0,3,UPI,0
+ORD00434,Electronics,1180,18.9,4.8,1,Credit Card,0
+ORD00435,Books,273,29.4,3.8,4,Debit Card,0
+ORD00436,Books,392,19.3,3.6,3,Debit Card,0
+ORD00437,Home & Kitchen,554,14.3,4.3,3,Wallet,0
+ORD00438,Electronics,3220,32.8,5.2,4,Cash on Delivery,0
+ORD00439,Electronics,2892,40.3,5.3,0,Credit Card,1
+ORD00440,Fashion,996,41.8,5.9,2,UPI,0
+ORD00441,Electronics,3453,22.8,4.6,2,UPI,0
+ORD00442,Beauty,645,19.7,4.5,2,Debit Card,0
+ORD00443,Books,350,42.2,6.6,3,Debit Card,1
+ORD00444,Books,371,35.1,8.2,6,UPI,0
+ORD00445,Fashion,1953,20.5,,4,Debit Card,0
+ORD00446,Home & Kitchen,2074,22.0,7.6,0,Cash on Delivery,0
+ORD00447,Books,302,20.3,2.7,2,Credit Card,0
+ORD00448,Beauty,690,28.4,1.3,4,Credit Card,0
+ORD00449,Home & Kitchen,1667,27.2,3.3,4,UPI,0
+ORD00450,Books,300,16.4,2.9,,UPI,0
+ORD00451,Beauty,1693,10.6,4.2,7,Cash on Delivery,1
+ORD00452,Fashion,856,43.0,1.4,1,Credit Card,1
+ORD00453,Fashion,1164,29.4,3.5,2,UPI,1
+ORD00454,Fashion,787,51.0,1.4,3,Credit Card,0
+ORD00455,Sports,843,8.6,2.6,2,Credit Card,0
+ORD00456,Sports,387,36.9,5.1,1,UPI,0
+ORD00457,Sports,859,6.6,2.8,4,Wallet,0
+ORD00458,Fashion,1465,45.9,4.3,6,UPI,0
+ORD00459,Fashion,1186,41.9,1.5,1,Debit Card,0
+ORD00460,Sports,1059,14.8,6.3,1,Debit Card,1
+ORD00461,Fashion,1507,42.5,4.8,0,Credit Card,0
+ORD00462,Grocery,519,9.3,6.0,4,Credit Card,0
+ORD00463,Electronics,5190,21.6,,2,Cash on Delivery,0
+ORD00464,Books,309,15.0,2.6,3,Credit Card,0
+ORD00465,Fashion,675,11.4,5.3,1,UPI,1
+ORD00466,Books,588,34.0,2.0,0,Cash on Delivery,1
+ORD00467,Home & Kitchen,1285,44.9,5.3,4,Cash on Delivery,0
+ORD00468,Sports,2078,37.8,8.0,0,UPI,0
+ORD00469,Sports,835,14.8,3.9,4,Credit Card,0
+ORD00470,Electronics,3014,33.6,4.3,4,Wallet,0
+ORD00471,Fashion,1114,47.7,7.9,1,Debit Card,1
+ORD00472,Electronics,1987,29.2,6.0,0,UPI,1
+ORD00473,Fashion,1016,22.5,3.8,1,Debit Card,0
+ORD00474,Beauty,1091,28.5,,1,Credit Card,1
+ORD00475,Home & Kitchen,1624,36.9,4.7,8,Debit Card,0
+ORD00476,Fashion,1065,11.7,7.8,0,Cash on Delivery,0
+ORD00477,Grocery,189,11.1,6.4,3,UPI,0
+ORD00478,Home & Kitchen,1694,21.4,5.5,,Credit Card,0
+ORD00479,Electronics,2311,30.7,5.7,0,Credit Card,0
+ORD00480,Fashion,1464,48.4,7.3,3,Cash on Delivery,1
+ORD00481,Grocery,368,7.1,4.3,2,Debit Card,0
+ORD00482,Books,514,40.6,4.0,3,Wallet,1
+ORD00483,Books,220,14.9,4.1,1,UPI,0
+ORD00484,Home & Kitchen,1003,25.0,5.4,4,UPI,0
+ORD00485,Grocery,663,13.4,3.1,5,Credit Card,0
+ORD00486,Home & Kitchen,1699,12.9,4.1,8,UPI,0
+ORD00487,Electronics,1644,35.2,3.7,0,Credit Card,1
+ORD00488,Books,545,26.7,8.7,9,UPI,0
+ORD00489,Fashion,938,43.9,6.3,1,Cash on Delivery,0
+ORD00490,Electronics,2964,12.4,5.6,0,Cash on Delivery,0
+ORD00491,Grocery,583,16.7,,4,UPI,0
+ORD00492,Books,215,3.6,2.6,0,Credit Card,0
+ORD00493,Fashion,990,18.3,3.5,1,Debit Card,0
+ORD00494,Home & Kitchen,1331,20.9,5.4,,Credit Card,0
+ORD00495,Electronics,3496,43.6,5.4,1,UPI,0
+ORD00496,Electronics,2908,23.8,5.8,2,Debit Card,0
+ORD00497,Electronics,3090,29.9,4.8,6,Debit Card,0
+ORD00498,Electronics,2769,27.3,4.2,6,Credit Card,0
+ORD00499,Beauty,798,15.1,,9,Credit Card,0
+ORD00500,Home & Kitchen,702,10.8,4.2,1,UPI,0
+ORD00501,Home & Kitchen,1479,22.4,3.3,,UPI,0
+ORD00502,Home & Kitchen,727,17.4,5.0,5,Credit Card,0
+ORD00503,Beauty,896,18.6,5.5,0,UPI,0
+ORD00504,Fashion,651,27.2,4.7,0,Credit Card,0
+ORD00505,Fashion,1468,14.3,4.1,2,Cash on Delivery,1
+ORD00506,Fashion,1530,36.9,4.1,,Credit Card,0
+ORD00507,Home & Kitchen,1020,4.4,6.7,3,UPI,0
+ORD00508,Grocery,140,38.8,6.4,2,Debit Card,0
+ORD00509,Books,453,21.3,5.6,4,Credit Card,0
+ORD00510,Home & Kitchen,1488,31.7,5.4,0,UPI,0
+ORD00511,Fashion,910,59.8,4.8,3,Cash on Delivery,1
+ORD00512,Books,368,51.1,7.2,2,Debit Card,0
+ORD00513,Beauty,726,23.1,4.2,2,Credit Card,0
+ORD00514,Sports,1589,26.0,2.3,3,UPI,0
+ORD00515,Sports,1165,34.1,4.4,,Debit Card,0
+ORD00516,Fashion,918,24.0,2.4,3,Cash on Delivery,1
+ORD00517,Beauty,258,22.7,1.2,2,UPI,1
+ORD00518,Sports,2536,30.7,5.7,0,Cash on Delivery,1
+ORD00519,Grocery,483,1.1,4.9,1,UPI,0
+ORD00520,Electronics,3381,25.9,3.0,9,Credit Card,0
+ORD00521,Sports,1480,23.2,4.5,0,UPI,0
+ORD00522,Home & Kitchen,892,41.9,3.8,1,UPI,0
+ORD00523,Home & Kitchen,834,6.5,6.9,1,Credit Card,0
+ORD00524,Home & Kitchen,1258,23.4,4.2,0,UPI,0
+ORD00525,Beauty,487,0.0,3.0,0,Wallet,0
+ORD00526,Electronics,5383,35.9,4.6,1,UPI,0
+ORD00527,Electronics,4157,19.0,6.3,2,Credit Card,0
+ORD00528,Fashion,1065,30.2,7.2,2,UPI,0
+ORD00529,Home & Kitchen,1737,39.4,2.5,6,UPI,0
+ORD00530,Sports,1462,12.2,5.3,0,UPI,0
+ORD00531,Beauty,445,15.4,5.8,2,UPI,0
+ORD00532,Fashion,1416,18.4,6.6,5,Cash on Delivery,0
+ORD00533,Electronics,4397,31.6,6.7,2,Debit Card,0
+ORD00534,Fashion,1329,22.5,7.4,7,Cash on Delivery,0
+ORD00535,Fashion,1431,26.6,4.6,5,UPI,0
+ORD00536,Electronics,3553,5.7,6.7,0,UPI,0
+ORD00537,Beauty,216,31.5,,,Cash on Delivery,0
+ORD00538,Fashion,631,13.4,5.1,7,UPI,0
+ORD00539,Fashion,788,29.7,5.3,6,Credit Card,1
+ORD00540,Fashion,560,12.7,4.5,2,Credit Card,0
+ORD00541,Grocery,214,16.7,4.5,5,Wallet,0
+ORD00542,Grocery,473,32.5,3.4,1,Wallet,0
+ORD00543,Beauty,535,35.0,5.1,3,Wallet,1
+ORD00544,Fashion,1434,42.7,5.6,0,Debit Card,1
+ORD00545,Sports,1211,19.3,4.8,2,Wallet,1
+ORD00546,Beauty,744,27.1,5.5,9,UPI,0
+ORD00547,Fashion,1275,46.8,4.3,3,UPI,0
+ORD00548,Fashion,880,23.7,1.2,2,Wallet,0
+ORD00549,Fashion,866,32.1,1.8,3,Credit Card,0
+ORD00550,Fashion,1198,49.2,6.6,1,UPI,1
+ORD00551,Beauty,925,31.1,2.6,0,Credit Card,0
+ORD00552,Home & Kitchen,1636,13.8,2.6,0,UPI,0
+ORD00553,Sports,1638,16.7,2.7,5,Credit Card,0
+ORD00554,Beauty,1438,34.5,5.2,2,Credit Card,1
+ORD00555,Home & Kitchen,698,33.8,4.8,7,Cash on Delivery,0
+ORD00556,Books,319,6.6,6.8,2,Debit Card,0
+ORD00557,Sports,896,13.8,1.6,,Wallet,0
+ORD00558,Grocery,348,25.0,2.7,2,Cash on Delivery,0
+ORD00559,Electronics,2338,18.2,5.3,8,Debit Card,0
+ORD00560,Books,344,37.0,5.6,2,Credit Card,0
+ORD00561,Fashion,1089,22.9,3.2,1,Cash on Delivery,1
+ORD00562,Electronics,1462,25.6,7.3,2,UPI,0
+ORD00563,Sports,341,34.0,6.1,5,Credit Card,0
+ORD00564,Books,147,33.8,4.5,1,Cash on Delivery,0
+ORD00565,Fashion,828,32.2,3.7,7,Debit Card,0
+ORD00566,Home & Kitchen,823,12.6,4.1,5,Credit Card,0
+ORD00567,Home & Kitchen,2381,35.5,3.3,2,Wallet,0
+ORD00568,Grocery,1009,27.7,6.9,1,Cash on Delivery,0
+ORD00569,Beauty,903,29.4,7.8,10,UPI,0
+ORD00570,Home & Kitchen,1994,17.6,,2,Debit Card,0
+ORD00571,Home & Kitchen,981,14.6,6.2,3,Cash on Delivery,0
+ORD00572,Fashion,1288,26.8,4.1,4,Wallet,0
+ORD00573,Sports,1288,24.5,3.8,3,UPI,0
+ORD00574,Sports,1099,41.7,2.0,4,Debit Card,1
+ORD00575,Electronics,2773,11.1,7.3,3,UPI,1
+ORD00576,Fashion,564,52.4,6.0,0,Credit Card,0
+ORD00577,Fashion,1087,44.5,2.0,5,Credit Card,0
+ORD00578,Electronics,4710,10.3,7.8,0,Cash on Delivery,0
+ORD00579,Books,332,30.3,2.6,7,Debit Card,0
+ORD00580,Books,269,21.8,6.6,0,Debit Card,0
+ORD00581,Grocery,109,10.6,6.0,5,Credit Card,0
+ORD00582,Sports,1522,32.8,5.2,2,Credit Card,1
+ORD00583,Sports,719,6.6,6.0,0,UPI,0
+ORD00584,Home & Kitchen,1125,22.2,4.5,,Cash on Delivery,0
+ORD00585,Books,399,31.6,1.0,3,UPI,0
+ORD00586,Fashion,1776,36.6,4.0,5,Cash on Delivery,0
+ORD00587,Fashion,742,17.5,3.9,1,UPI,1
+ORD00588,Fashion,1176,16.3,3.7,0,Wallet,0
+ORD00589,Fashion,1389,21.9,2.9,4,Credit Card,1
+ORD00590,Beauty,331,26.0,8.3,3,Cash on Delivery,0
+ORD00591,Grocery,441,17.5,4.5,0,Cash on Delivery,0
+ORD00592,Sports,846,7.4,3.0,0,Credit Card,0
+ORD00593,Electronics,2715,27.0,5.8,2,UPI,0
+ORD00594,Home & Kitchen,856,20.0,4.4,0,UPI,0
+ORD00595,Sports,935,8.4,1.7,6,Credit Card,0
+ORD00596,Electronics,2172,34.9,,5,Debit Card,1
+ORD00597,Home & Kitchen,727,19.9,4.4,4,Credit Card,0
+ORD00598,Fashion,1175,38.8,3.7,3,Wallet,0
+ORD00599,Fashion,1617,31.9,1.6,5,Credit Card,1
+ORD00600,Home & Kitchen,849,24.0,2.8,0,Debit Card,0
+ORD00601,Home & Kitchen,807,21.8,3.2,8,Credit Card,0
+ORD00602,Fashion,1090,47.4,6.0,0,Debit Card,0
+ORD00603,Books,958,13.0,6.8,4,Debit Card,0
+ORD00604,Home & Kitchen,1836,28.4,7.2,3,Cash on Delivery,0
+ORD00605,Electronics,2266,44.3,,,Credit Card,1
+ORD00606,Home & Kitchen,2435,27.1,4.4,3,Credit Card,0
+ORD00607,Fashion,2185,27.0,3.9,2,Credit Card,1
+ORD00608,Sports,845,15.7,3.5,6,Credit Card,0
+ORD00609,Fashion,706,35.9,1.8,8,UPI,0
+ORD00610,Fashion,2323,29.8,4.3,4,Cash on Delivery,1
+ORD00611,Electronics,2593,31.2,2.4,0,Cash on Delivery,0
+ORD00612,Fashion,554,15.2,5.6,2,Debit Card,1
+ORD00613,Beauty,539,10.3,5.8,3,UPI,1
+ORD00614,Fashion,1002,29.5,3.8,,Credit Card,0
+ORD00615,Fashion,2060,29.9,4.8,3,UPI,0
+ORD00616,Sports,1539,22.0,3.1,4,UPI,0
+ORD00617,Beauty,440,30.3,5.6,4,Wallet,0
+ORD00618,Home & Kitchen,990,28.9,3.3,1,Credit Card,0
+ORD00619,Sports,702,30.5,5.2,9,UPI,0
+ORD00620,Home & Kitchen,1497,16.1,4.5,6,UPI,0
+ORD00621,Home & Kitchen,1276,25.3,5.8,0,Wallet,1
+ORD00622,Electronics,3358,23.2,,0,Debit Card,1
+ORD00623,Home & Kitchen,2890,48.9,7.3,2,Debit Card,1
+ORD00624,Sports,985,26.0,3.1,3,Cash on Delivery,0
+ORD00625,Fashion,1003,56.7,4.6,4,Wallet,0
+ORD00626,Electronics,2039,39.0,2.6,0,Wallet,1
+ORD00627,Home & Kitchen,2569,20.4,3.5,2,Credit Card,0
+ORD00628,Electronics,3012,38.1,5.9,4,UPI,1
+ORD00629,Beauty,509,22.3,5.8,4,Credit Card,1
+ORD00630,Fashion,878,39.3,5.2,0,Cash on Delivery,1
+ORD00631,Fashion,1034,32.8,3.4,4,Debit Card,1
+ORD00632,Beauty,795,18.6,3.2,4,Debit Card,0
+ORD00633,Sports,989,30.1,8.1,7,Cash on Delivery,0
+ORD00634,Sports,1252,27.4,5.8,6,UPI,0
+ORD00635,Electronics,2013,20.6,4.3,0,UPI,0
+ORD00636,Beauty,692,6.4,4.1,1,Cash on Delivery,0
+ORD00637,Fashion,1289,24.4,8.2,6,Wallet,0
+ORD00638,Beauty,532,22.8,1.9,4,Credit Card,0
+ORD00639,Fashion,1280,42.8,3.1,1,Credit Card,0
+ORD00640,Electronics,2723,25.7,5.3,2,Cash on Delivery,1
+ORD00641,Grocery,299,21.9,7.2,0,Cash on Delivery,0
+ORD00642,Home & Kitchen,1313,20.6,6.8,9,UPI,0
+ORD00643,Electronics,787,46.3,4.1,0,Wallet,0
+ORD00644,Home & Kitchen,499,19.4,3.6,0,Cash on Delivery,0
+ORD00645,Home & Kitchen,1798,41.9,3.3,1,Debit Card,0
+ORD00646,Beauty,546,11.9,2.0,3,Credit Card,0
+ORD00647,Fashion,2134,14.6,6.9,2,Wallet,1
+ORD00648,Fashion,881,46.9,1.5,1,Credit Card,0
+ORD00649,Electronics,3906,15.8,6.5,6,UPI,0
+ORD00650,Grocery,354,32.4,4.9,4,UPI,0
+ORD00651,Sports,1203,39.3,4.9,2,Credit Card,1
+ORD00652,Electronics,1677,28.0,1.5,4,Credit Card,0
+ORD00653,Electronics,1924,3.1,,0,Credit Card,0
+ORD00654,Grocery,235,18.4,3.3,2,Wallet,0
+ORD00655,Fashion,1107,12.5,2.1,3,UPI,0
+ORD00656,Home & Kitchen,1772,38.3,4.7,8,UPI,0
+ORD00657,Home & Kitchen,1977,22.2,3.9,,Debit Card,0
+ORD00658,Fashion,832,19.4,2.2,10,Debit Card,0
+ORD00659,Home & Kitchen,3177,5.3,2.5,1,Wallet,0
+ORD00660,Sports,641,34.4,6.2,3,Credit Card,1
+ORD00661,Fashion,798,42.3,4.1,5,Credit Card,0
+ORD00662,Fashion,343,48.6,3.3,2,Credit Card,0
+ORD00663,Sports,1666,29.4,5.6,3,Debit Card,0
+ORD00664,Beauty,858,26.6,,0,Credit Card,0
+ORD00665,Beauty,1036,18.9,4.5,,Wallet,0
+ORD00666,Beauty,572,13.3,3.3,0,Credit Card,0
+ORD00667,Home & Kitchen,1764,42.0,4.3,5,UPI,1
+ORD00668,Beauty,394,17.4,4.1,1,Credit Card,0
+ORD00669,Fashion,1530,19.2,5.1,8,Credit Card,0
+ORD00670,Grocery,373,32.2,3.7,5,UPI,0
+ORD00671,Electronics,3420,9.5,3.8,6,Cash on Delivery,0
+ORD00672,Electronics,1943,33.9,2.9,3,Debit Card,0
+ORD00673,Home & Kitchen,563,16.5,2.5,2,Credit Card,0
+ORD00674,Beauty,1284,16.6,2.7,,Wallet,0
+ORD00675,Beauty,927,19.1,3.8,0,Cash on Delivery,1
+ORD00676,Beauty,698,31.5,4.0,0,Credit Card,0
+ORD00677,Books,409,32.9,4.4,1,Cash on Delivery,1
+ORD00678,Home & Kitchen,1740,39.4,4.8,2,Credit Card,0
+ORD00679,Fashion,1566,17.9,4.5,0,Credit Card,1
+ORD00680,Fashion,1151,15.7,2.0,0,UPI,0
+ORD00681,Grocery,240,36.4,7.4,0,Cash on Delivery,0
+ORD00682,Electronics,2827,26.4,6.3,0,Wallet,0
+ORD00683,Sports,1868,18.1,,0,Credit Card,0
+ORD00684,Electronics,1493,30.9,5.2,2,Debit Card,1
+ORD00685,Fashion,799,28.8,3.4,2,Cash on Delivery,0
+ORD00686,Beauty,446,21.3,4.6,0,Debit Card,0
+ORD00687,Fashion,2108,32.0,7.4,,Cash on Delivery,0
+ORD00688,Grocery,360,25.1,5.4,6,UPI,0
+ORD00689,Books,432,11.3,6.0,2,Wallet,0
+ORD00690,Grocery,367,19.1,2.7,5,UPI,1
+ORD00691,Fashion,465,14.1,7.4,2,Cash on Delivery,0
+ORD00692,Home & Kitchen,678,29.4,8.2,4,UPI,0
+ORD00693,Fashion,655,24.5,4.3,10,UPI,0
+ORD00694,Sports,1064,6.0,4.2,10,Cash on Delivery,0
+ORD00695,Electronics,1866,36.0,6.8,0,Debit Card,0
+ORD00696,Books,773,18.8,7.1,,Cash on Delivery,0
+ORD00697,Beauty,550,17.7,6.0,0,Wallet,0
+ORD00698,Grocery,221,21.5,5.0,1,Cash on Delivery,0
+ORD00699,Grocery,661,37.7,3.9,1,UPI,1
+ORD00700,Electronics,1993,33.5,7.0,0,Cash on Delivery,1
+ORD00701,Fashion,781,47.0,3.5,0,UPI,1
+ORD00702,Electronics,2723,14.3,1.4,0,Credit Card,1
+ORD00703,Fashion,720,35.8,4.0,1,Credit Card,1
+ORD00704,Beauty,1364,14.6,2.7,2,Cash on Delivery,0
+ORD00705,Home & Kitchen,4324,35.6,7.7,4,Credit Card,1
+ORD00706,Home & Kitchen,1459,38.5,5.6,3,Credit Card,1
+ORD00707,Beauty,848,33.3,7.5,2,Debit Card,0
+ORD00708,Electronics,2855,30.1,5.2,2,Cash on Delivery,0
+ORD00709,Sports,608,13.2,5.2,5,Cash on Delivery,0
+ORD00710,Electronics,1595,26.5,4.3,5,Wallet,0
+ORD00711,Home & Kitchen,989,50.1,5.2,2,Cash on Delivery,0
+ORD00712,Electronics,3761,19.9,4.5,0,Cash on Delivery,0
+ORD00713,Books,617,48.7,2.2,5,Wallet,0
+ORD00714,Beauty,484,21.2,3.6,2,Credit Card,0
+ORD00715,Books,483,24.8,2.9,0,Cash on Delivery,0
+ORD00716,Books,507,30.3,6.3,1,UPI,0
+ORD00717,Fashion,1544,20.1,,0,Credit Card,0
+ORD00718,Electronics,3672,27.1,,2,UPI,0
+ORD00719,Sports,1163,8.2,5.5,3,Wallet,0
+ORD00720,Fashion,531,33.3,3.8,0,UPI,0
+ORD00721,Electronics,1650,36.3,5.9,2,Credit Card,1
+ORD00722,Electronics,4467,28.6,3.6,0,Credit Card,0
+ORD00723,Fashion,1881,22.3,3.5,0,UPI,0
+ORD00724,Electronics,7703,34.7,5.2,,Credit Card,1
+ORD00725,Sports,1231,33.6,7.4,,Cash on Delivery,0
+ORD00726,Fashion,1573,57.5,1.8,,Credit Card,1
+ORD00727,Beauty,711,36.5,,,Credit Card,0
+ORD00728,Sports,2506,20.4,,5,UPI,0
+ORD00729,Home & Kitchen,1791,6.9,5.9,9,Debit Card,0
+ORD00730,Books,244,6.7,6.7,,Credit Card,0
+ORD00731,Fashion,1808,49.7,4.0,4,UPI,0
+ORD00732,Grocery,290,40.0,5.3,,Debit Card,1
+ORD00733,Home & Kitchen,1724,17.7,6.0,0,Credit Card,0
+ORD00734,Books,606,14.4,,3,UPI,0
+ORD00735,Electronics,2100,34.2,6.9,0,Credit Card,0
+ORD00736,Grocery,252,30.5,6.5,7,Credit Card,0
+ORD00737,Fashion,1626,8.2,6.6,2,Cash on Delivery,0
+ORD00738,Electronics,1732,24.0,5.3,11,Debit Card,0
+ORD00739,Beauty,785,44.2,6.1,5,UPI,1
+ORD00740,Fashion,2189,27.0,3.4,1,UPI,0
+ORD00741,Beauty,1294,10.2,3.9,2,Debit Card,0
+ORD00742,Fashion,1263,48.3,5.3,2,Wallet,1
+ORD00743,Home & Kitchen,552,27.7,7.9,3,Credit Card,0
+ORD00744,Electronics,2466,26.5,3.9,5,Credit Card,0
+ORD00745,Home & Kitchen,639,26.9,5.0,0,Wallet,0
+ORD00746,Electronics,1718,30.1,3.0,5,Cash on Delivery,1
+ORD00747,Electronics,2121,24.0,5.8,2,Credit Card,1
+ORD00748,Books,519,39.2,5.6,0,Credit Card,0
+ORD00749,Fashion,1515,13.3,4.5,0,Credit Card,0
+ORD00750,Home & Kitchen,1315,30.2,3.9,3,Cash on Delivery,1
+ORD00751,Electronics,2699,33.9,4.4,0,Cash on Delivery,0
+ORD00752,Home & Kitchen,1488,27.3,,0,Debit Card,0
+ORD00753,Sports,861,27.0,6.4,3,Credit Card,0
+ORD00754,Fashion,1071,40.5,3.9,0,Credit Card,1
+ORD00755,Beauty,703,22.1,4.5,4,UPI,0
+ORD00756,Grocery,384,23.4,5.2,2,Credit Card,0
+ORD00757,Electronics,1396,44.5,2.9,1,Credit Card,0
+ORD00758,Books,363,28.5,3.0,1,Debit Card,0
+ORD00759,Beauty,956,9.1,2.3,5,Debit Card,0
+ORD00760,Fashion,708,13.5,5.7,6,Debit Card,0
+ORD00761,Electronics,2617,35.8,4.1,0,UPI,0
+ORD00762,Electronics,1171,26.8,3.6,5,UPI,0
+ORD00763,Fashion,502,35.1,4.9,1,UPI,0
+ORD00764,Home & Kitchen,1111,34.0,,0,Debit Card,0
+ORD00765,Home & Kitchen,1565,15.1,4.8,4,Debit Card,0
+ORD00766,Grocery,208,12.9,4.2,4,Credit Card,0
+ORD00767,Electronics,2752,28.2,3.0,8,Wallet,0
+ORD00768,Sports,650,18.8,4.1,2,Cash on Delivery,0
+ORD00769,Home & Kitchen,1444,23.3,6.4,,UPI,0
+ORD00770,Home & Kitchen,1256,16.7,6.1,,UPI,0
+ORD00771,Books,481,13.1,3.9,1,Debit Card,0
+ORD00772,Beauty,400,13.9,4.7,2,Wallet,0
+ORD00773,Home & Kitchen,1245,25.6,4.2,0,Cash on Delivery,0
+ORD00774,Home & Kitchen,631,50.6,3.5,2,Credit Card,1
+ORD00775,Home & Kitchen,2119,29.1,6.6,3,UPI,0
+ORD00776,Electronics,1037,31.0,4.0,0,Wallet,0
+ORD00777,Books,623,33.2,4.8,0,Debit Card,0
+ORD00778,Fashion,1415,30.1,5.3,2,Debit Card,0
+ORD00779,Home & Kitchen,553,29.1,4.5,2,Debit Card,0
+ORD00780,Beauty,668,32.8,,7,Credit Card,0
+ORD00781,Books,555,27.8,6.4,1,UPI,0
+ORD00782,Fashion,845,36.4,3.3,3,UPI,0
+ORD00783,Fashion,510,46.5,4.4,3,UPI,0
+ORD00784,Fashion,1014,28.2,2.1,1,Credit Card,1
+ORD00785,Home & Kitchen,1467,29.8,6.1,3,Cash on Delivery,1
+ORD00786,Fashion,1382,29.1,,4,Cash on Delivery,0
+ORD00787,Sports,1892,19.5,5.7,3,Credit Card,0
+ORD00788,Home & Kitchen,981,34.6,3.6,3,UPI,1
+ORD00789,Home & Kitchen,1004,34.3,4.4,4,Credit Card,0
+ORD00790,Beauty,932,34.4,6.1,7,UPI,0
+ORD00791,Electronics,1227,28.4,4.2,3,Debit Card,0
+ORD00792,Electronics,1784,33.1,7.1,,Debit Card,0
+ORD00793,Home & Kitchen,1188,32.7,4.8,1,UPI,0
+ORD00794,Sports,807,28.4,,1,Cash on Delivery,0
+ORD00795,Home & Kitchen,981,44.6,6.2,4,Wallet,0
+ORD00796,Home & Kitchen,911,30.3,4.9,4,UPI,0
+ORD00797,Books,258,17.5,4.6,3,Wallet,0
+ORD00798,Grocery,229,25.3,6.9,1,UPI,1
+ORD00799,Grocery,560,31.0,5.2,0,Cash on Delivery,0
+ORD00800,Beauty,544,21.2,7.7,1,Cash on Delivery,0
+ORD00801,Home & Kitchen,2082,15.8,6.5,,Debit Card,0
+ORD00802,Home & Kitchen,1678,10.7,5.8,2,Cash on Delivery,1
+ORD00803,Fashion,500,38.6,5.4,0,UPI,0
+ORD00804,Electronics,1438,27.9,3.2,1,Credit Card,0
+ORD00805,Beauty,397,36.8,4.5,1,Wallet,1
+ORD00806,Fashion,1227,2.6,3.8,0,Credit Card,1
+ORD00807,Books,577,14.2,2.9,6,Credit Card,0
+ORD00808,Sports,571,35.7,4.3,2,Debit Card,0
+ORD00809,Electronics,1724,30.3,6.2,1,Debit Card,0
+ORD00810,Grocery,353,30.8,6.4,1,Cash on Delivery,0
+ORD00811,Home & Kitchen,1274,9.6,1.2,3,UPI,0
+ORD00812,Beauty,581,7.7,2.2,,UPI,0
+ORD00813,Electronics,2818,12.8,4.2,8,Cash on Delivery,0
+ORD00814,Grocery,286,12.2,5.7,3,UPI,0
+ORD00815,Fashion,1276,26.8,1.0,,UPI,1
+ORD00816,Beauty,609,39.0,2.4,4,Credit Card,0
+ORD00817,Grocery,251,0.4,,4,Credit Card,0
+ORD00818,Beauty,545,14.6,5.5,0,UPI,0
+ORD00819,Fashion,902,29.2,5.9,,Wallet,0
+ORD00820,Home & Kitchen,1173,3.5,7.5,0,Cash on Delivery,0
+ORD00821,Grocery,529,22.8,5.5,5,UPI,0
+ORD00822,Books,558,17.9,5.0,3,UPI,0
+ORD00823,Home & Kitchen,1658,29.7,2.7,6,UPI,0
+ORD00824,Home & Kitchen,965,9.7,5.8,3,Credit Card,0
+ORD00825,Fashion,881,19.2,4.6,1,Cash on Delivery,1
+ORD00826,Electronics,1134,23.2,2.4,6,Wallet,0
+ORD00827,Home & Kitchen,741,21.6,5.4,4,Cash on Delivery,0
+ORD00828,Grocery,432,29.3,5.1,5,Cash on Delivery,0
+ORD00829,Fashion,684,48.8,3.5,0,Credit Card,0
+ORD00830,Beauty,510,14.1,5.8,,Wallet,0
+ORD00831,Grocery,554,8.6,2.6,2,Credit Card,1
+ORD00832,Grocery,548,32.6,,0,UPI,0
+ORD00833,Beauty,1055,30.0,3.4,,Wallet,0
+ORD00834,Fashion,416,54.6,2.7,4,Debit Card,0
+ORD00835,Electronics,784,29.3,1.0,4,Credit Card,0
+ORD00836,Electronics,1600,29.3,2.2,0,Credit Card,0
+ORD00837,Beauty,359,32.9,4.8,2,Cash on Delivery,0
+ORD00838,Electronics,1395,36.4,,9,Debit Card,0
+ORD00839,Electronics,2884,5.8,7.8,0,Wallet,0
+ORD00840,Fashion,1157,27.1,5.0,1,UPI,0
+ORD00841,Home & Kitchen,1362,22.4,6.4,1,Cash on Delivery,0
+ORD00842,Fashion,1491,29.4,7.1,5,Credit Card,0
+ORD00843,Electronics,2299,45.4,3.2,4,Cash on Delivery,0
+ORD00844,Books,900,39.1,2.8,3,UPI,0
+ORD00845,Electronics,4172,1.8,3.4,1,UPI,0
+ORD00846,Electronics,2060,32.0,6.2,0,Wallet,1
+ORD00847,Beauty,633,11.6,1.0,7,UPI,0
+ORD00848,Fashion,1067,34.0,5.0,4,Credit Card,1
+ORD00849,Fashion,1866,37.2,5.5,0,UPI,0
+ORD00850,Home & Kitchen,773,27.3,3.1,6,UPI,0
+ORD00851,Electronics,3179,31.8,2.4,3,Cash on Delivery,0
+ORD00852,Grocery,360,27.9,8.8,,Cash on Delivery,0
+ORD00853,Electronics,1964,14.8,2.5,6,Debit Card,0
+ORD00854,Electronics,4462,25.7,3.8,,Cash on Delivery,1
+ORD00855,Fashion,650,23.8,,1,Cash on Delivery,0
+ORD00856,Home & Kitchen,971,24.6,3.0,0,UPI,0
+ORD00857,Fashion,476,31.9,6.2,,Credit Card,1
+ORD00858,Beauty,1226,15.7,6.1,0,UPI,0
+ORD00859,Books,468,38.6,8.0,3,Cash on Delivery,0
+ORD00860,Fashion,1323,21.8,3.9,4,UPI,0
+ORD00861,Fashion,1385,38.5,5.8,0,UPI,0
+ORD00862,Beauty,1005,3.7,4.1,0,Debit Card,0
+ORD00863,Electronics,1855,30.4,5.1,0,Debit Card,0
+ORD00864,Beauty,898,33.2,5.6,3,Credit Card,0
+ORD00865,Sports,800,36.5,5.4,4,Debit Card,1
+ORD00866,Grocery,399,15.1,6.3,1,Debit Card,0
+ORD00867,Books,271,13.0,4.2,4,Cash on Delivery,0
+ORD00868,Home & Kitchen,833,38.0,7.1,2,Cash on Delivery,0
+ORD00869,Home & Kitchen,1181,19.4,7.8,4,Cash on Delivery,0
+ORD00870,Beauty,797,21.2,2.0,1,UPI,0
+ORD00871,Home & Kitchen,962,4.6,4.3,2,UPI,0
+ORD00872,Electronics,1793,21.3,3.0,,Wallet,0
+ORD00873,Grocery,990,41.1,4.3,1,UPI,0
+ORD00874,Electronics,2691,41.3,4.8,5,UPI,0
+ORD00875,Fashion,644,28.5,5.4,0,Debit Card,1
+ORD00876,Home & Kitchen,1035,17.5,5.3,5,Credit Card,1
+ORD00877,Electronics,895,21.2,,4,Wallet,0
+ORD00878,Books,283,18.7,5.0,6,Cash on Delivery,0
+ORD00879,Grocery,195,18.4,5.7,4,Credit Card,0
+ORD00880,Fashion,844,26.6,1.9,,UPI,0
+ORD00881,Sports,857,28.4,5.3,2,Credit Card,0
+ORD00882,Home & Kitchen,1036,18.4,3.1,4,Credit Card,0
+ORD00883,Home & Kitchen,949,12.8,3.1,,UPI,1
+ORD00884,Beauty,942,18.3,,,Credit Card,0
+ORD00885,Home & Kitchen,1305,12.2,4.7,1,Wallet,0
+ORD00886,Fashion,829,25.9,5.9,0,UPI,1
+ORD00887,Electronics,1480,11.2,4.8,2,Credit Card,0
+ORD00888,Fashion,1636,29.6,5.6,8,Credit Card,0
+ORD00889,Beauty,510,26.5,6.9,6,Credit Card,1
+ORD00890,Fashion,1481,10.0,2.4,0,Debit Card,0
+ORD00891,Electronics,2697,24.8,5.1,0,Cash on Delivery,0
+ORD00892,Beauty,288,15.1,5.5,3,Credit Card,0
+ORD00893,Electronics,1168,20.4,3.7,4,Debit Card,0
+ORD00894,Home & Kitchen,2539,7.2,2.7,2,Cash on Delivery,0
+ORD00895,Home & Kitchen,846,28.6,4.0,3,Credit Card,0
+ORD00896,Fashion,1194,16.9,4.9,7,Debit Card,0
+ORD00897,Sports,1128,25.1,1.2,7,Credit Card,1
+ORD00898,Fashion,929,33.1,,1,Debit Card,1
+ORD00899,Beauty,525,33.9,3.4,2,Credit Card,1
+ORD00900,Sports,736,39.5,5.0,2,Cash on Delivery,1
+ORD00901,Electronics,1242,13.9,2.0,7,Credit Card,0
+ORD00902,Electronics,2883,31.1,5.1,2,Credit Card,1
+ORD00903,Sports,1450,21.7,3.3,4,UPI,0
+ORD00904,Home & Kitchen,719,23.7,2.9,0,Credit Card,0
+ORD00905,Fashion,538,18.7,5.9,4,Debit Card,0
+ORD00906,Grocery,275,31.9,3.7,0,Credit Card,0
+ORD00907,Fashion,1619,45.4,6.5,1,Cash on Delivery,0
+ORD00908,Grocery,219,8.7,5.6,2,Credit Card,0
+ORD00909,Home & Kitchen,2055,15.7,,3,Debit Card,1
+ORD00910,Fashion,1073,11.8,2.0,2,Credit Card,0
+ORD00911,Electronics,2732,38.7,3.8,3,Cash on Delivery,0
+ORD00912,Fashion,1829,23.0,5.4,,Debit Card,0
+ORD00913,Electronics,1220,30.8,5.8,0,Credit Card,0
+ORD00914,Home & Kitchen,912,17.4,1.0,3,Credit Card,0
+ORD00915,Fashion,1478,24.2,5.0,1,Credit Card,0
+ORD00916,Home & Kitchen,1530,7.3,3.8,0,Credit Card,0
+ORD00917,Fashion,1203,22.0,7.5,2,UPI,0
+ORD00918,Electronics,2198,41.5,4.9,2,Debit Card,1
+ORD00919,Home & Kitchen,1264,54.0,3.4,3,Cash on Delivery,1
+ORD00920,Electronics,4537,26.9,9.3,4,Cash on Delivery,0
+ORD00921,Fashion,1519,28.2,6.2,1,UPI,0
+ORD00922,Fashion,1446,0.0,2.7,3,UPI,0
+ORD00923,Beauty,435,2.5,4.1,,Credit Card,0
+ORD00924,Sports,2286,38.7,4.1,5,Debit Card,0
+ORD00925,Home & Kitchen,1611,38.9,6.8,,Wallet,1
+ORD00926,Fashion,1110,26.0,1.9,6,Debit Card,0
+ORD00927,Fashion,840,30.1,2.6,3,UPI,0
+ORD00928,Fashion,630,37.1,1.0,,UPI,0
+ORD00929,Sports,1689,28.4,7.8,6,UPI,0
+ORD00930,Home & Kitchen,1607,29.0,3.6,5,Cash on Delivery,1
+ORD00931,Home & Kitchen,1937,15.2,4.0,0,Debit Card,0
+ORD00932,Sports,1000,11.1,1.0,4,UPI,0
+ORD00933,Home & Kitchen,1897,16.4,4.9,4,Debit Card,0
+ORD00934,Fashion,904,43.6,4.1,0,UPI,0
+ORD00935,Electronics,2956,35.0,6.2,10,Cash on Delivery,0
+ORD00936,Fashion,655,22.1,7.0,3,UPI,0
+ORD00937,Fashion,821,46.8,1.9,2,Credit Card,0
+ORD00938,Sports,1290,32.5,4.9,0,Cash on Delivery,0
+ORD00939,Sports,784,42.7,,0,Wallet,0
+ORD00940,Fashion,1916,38.9,6.0,2,Cash on Delivery,1
+ORD00941,Grocery,322,31.5,4.8,4,Cash on Delivery,0
+ORD00942,Home & Kitchen,1628,36.8,4.2,6,Debit Card,0
+ORD00943,Grocery,378,21.3,5.8,1,Debit Card,0
+ORD00944,Grocery,289,9.8,3.5,2,Cash on Delivery,0
+ORD00945,Fashion,784,16.6,2.8,4,Credit Card,0
+ORD00946,Fashion,501,37.4,4.6,0,Cash on Delivery,1
+ORD00947,Home & Kitchen,1692,31.7,5.1,2,Credit Card,0
+ORD00948,Electronics,4246,19.8,6.1,5,UPI,0
+ORD00949,Fashion,1388,36.8,4.0,0,Debit Card,0
+ORD00950,Grocery,342,12.7,4.7,,Credit Card,0
+ORD00951,Electronics,2133,21.8,3.0,4,Credit Card,1
+ORD00952,Home & Kitchen,843,18.9,7.1,1,Cash on Delivery,1
+ORD00953,Electronics,2574,29.7,7.0,8,Wallet,0
+ORD00954,Sports,676,34.2,6.5,5,Credit Card,0
+ORD00955,Grocery,325,6.4,,1,Credit Card,1
+ORD00956,Fashion,1163,35.7,5.2,7,Credit Card,1
+ORD00957,Home & Kitchen,1482,33.4,,1,Cash on Delivery,1
+ORD00958,Books,245,22.0,5.2,0,Cash on Delivery,0
+ORD00959,Electronics,2435,23.7,4.4,0,Debit Card,0
+ORD00960,Home & Kitchen,655,34.5,3.4,3,Credit Card,0
+ORD00961,Electronics,1134,35.6,5.3,7,Debit Card,0
+ORD00962,Electronics,1506,24.5,4.5,2,Debit Card,0
+ORD00963,Home & Kitchen,1453,25.2,3.2,3,UPI,0
+ORD00964,Fashion,527,28.5,6.2,0,Debit Card,0
+ORD00965,Home & Kitchen,1731,15.4,4.4,4,UPI,0
+ORD00966,Fashion,2313,24.4,5.8,0,Cash on Delivery,0
+ORD00967,Fashion,2213,25.1,5.0,4,Cash on Delivery,0
+ORD00968,Electronics,2861,17.3,4.2,3,Debit Card,0
+ORD00969,Sports,1030,17.3,6.2,,Debit Card,0
+ORD00970,Home & Kitchen,772,38.3,5.9,2,Debit Card,0
+ORD00971,Electronics,1958,33.4,2.7,4,Debit Card,0
+ORD00972,Home & Kitchen,1073,31.7,2.0,2,Debit Card,0
+ORD00973,Sports,1298,19.8,6.2,6,UPI,0
+ORD00974,Sports,957,35.4,1.0,1,UPI,0
+ORD00975,Sports,941,34.9,3.6,3,Credit Card,0
+ORD00976,Books,601,42.7,3.9,3,Credit Card,0
+ORD00977,Electronics,1439,14.3,4.1,0,Credit Card,0
+ORD00978,Fashion,691,26.1,4.6,1,Credit Card,0
+ORD00979,Sports,1824,42.8,6.0,1,Credit Card,1
+ORD00980,Sports,1688,17.7,7.7,2,UPI,0
+ORD00981,Electronics,2522,33.2,,2,Debit Card,0
+ORD00982,Sports,1189,31.2,3.0,0,Credit Card,0
+ORD00983,Fashion,775,34.0,5.0,6,Credit Card,0
+ORD00984,Home & Kitchen,890,31.5,3.4,4,Debit Card,0
+ORD00985,Fashion,1734,33.9,3.2,5,Credit Card,1
+ORD00986,Books,704,11.1,5.6,0,Debit Card,0
+ORD00987,Sports,669,35.0,4.4,1,Debit Card,0
+ORD00988,Fashion,1075,17.1,2.4,2,Debit Card,0
+ORD00989,Grocery,274,23.7,1.2,0,Cash on Delivery,0
+ORD00990,Sports,2263,15.3,6.0,5,Credit Card,0
+ORD00991,Electronics,2177,7.6,5.3,3,Wallet,0
+ORD00992,Fashion,581,45.5,3.5,4,Wallet,0
+ORD00993,Books,725,12.4,4.2,3,Credit Card,0
+ORD00994,Sports,1715,33.1,3.8,2,Cash on Delivery,1
+ORD00995,Fashion,2073,10.6,1.7,3,Debit Card,0
+ORD00996,Home & Kitchen,1419,21.0,5.1,4,Wallet,1
+ORD00997,Sports,3024,15.6,5.6,0,Credit Card,0
+ORD00998,Sports,795,16.8,7.8,2,Cash on Delivery,0
+ORD00999,Fashion,1469,44.0,1.9,2,UPI,0
+ORD01000,Electronics,2770,16.3,9.9,1,Credit Card,0
+ORD01001,Books,788,20.3,,,UPI,0
+ORD01002,Home & Kitchen,703,37.3,2.9,5,Credit Card,0
+ORD01003,Electronics,1911,21.5,6.4,3,Cash on Delivery,0
+ORD01004,Fashion,1188,28.6,6.5,4,Wallet,0
+ORD01005,Electronics,1066,24.0,2.7,,Credit Card,0
+ORD01006,Sports,1327,30.4,9.3,1,Credit Card,1
+ORD01007,Fashion,1540,11.0,7.0,0,Credit Card,1
+ORD01008,Electronics,5398,44.5,1.0,5,UPI,0
+ORD01009,Home & Kitchen,1279,24.2,5.4,8,UPI,0
+ORD01010,Books,512,40.3,3.2,2,UPI,0
+ORD01011,Electronics,2754,9.0,3.5,2,Cash on Delivery,0
+ORD01012,Books,358,10.3,2.1,4,Debit Card,0
+ORD01013,Electronics,3232,18.9,4.3,4,UPI,0
+ORD01014,Home & Kitchen,1090,21.2,4.6,3,Cash on Delivery,0
+ORD01015,Fashion,1719,36.2,6.9,4,Wallet,1
+ORD01016,Books,441,25.8,5.8,0,Credit Card,0
+ORD01017,Electronics,2944,20.3,6.0,1,Cash on Delivery,1
+ORD01018,Sports,846,26.5,7.7,4,Debit Card,1
+ORD01019,Books,434,28.4,2.6,1,Debit Card,0
+ORD01020,Books,676,7.6,3.2,3,Credit Card,0
+ORD01021,Grocery,363,6.5,5.3,6,Debit Card,0
+ORD01022,Beauty,660,17.5,6.3,0,UPI,0
+ORD01023,Sports,1559,17.4,4.4,11,Cash on Delivery,0
+ORD01024,Fashion,1008,13.1,,6,Credit Card,0
+ORD01025,Books,312,27.7,5.3,1,UPI,0
+ORD01026,Books,383,28.7,7.0,0,Credit Card,0
+ORD01027,Electronics,2239,19.9,5.8,3,Credit Card,0
+ORD01028,Grocery,384,9.9,8.0,5,UPI,0
+ORD01029,Home & Kitchen,1733,28.5,6.4,6,Credit Card,0
+ORD01030,Electronics,1415,16.1,1.3,1,Debit Card,0
+ORD01031,Electronics,2263,17.0,4.8,5,Credit Card,0
+ORD01032,Beauty,823,17.6,6.0,,UPI,0
+ORD01033,Electronics,2259,19.1,4.0,0,Wallet,0
+ORD01034,Sports,1776,20.4,5.4,4,UPI,0
+ORD01035,Fashion,1304,37.8,7.0,6,UPI,0
+ORD01036,Home & Kitchen,837,19.8,4.5,9,Debit Card,0
+ORD01037,Fashion,1315,37.8,3.1,,UPI,0
+ORD01038,Sports,1383,0.0,3.4,6,UPI,0
+ORD01039,Grocery,197,15.0,5.6,2,Debit Card,0
+ORD01040,Books,807,15.3,2.7,4,Wallet,0
+ORD01041,Fashion,1263,45.9,5.3,1,UPI,1
+ORD01042,Home & Kitchen,1172,15.6,5.6,2,Debit Card,0
+ORD01043,Beauty,995,17.2,,,UPI,1
+ORD01044,Home & Kitchen,1220,24.3,2.8,,Debit Card,0
+ORD01045,Books,1418,40.4,7.3,3,Debit Card,0
+ORD01046,Home & Kitchen,1366,16.8,3.4,3,Credit Card,0
+ORD01047,Fashion,329,26.8,5.9,5,Credit Card,0
+ORD01048,Electronics,1780,16.6,5.2,2,Wallet,0
+ORD01049,Beauty,995,16.3,4.0,4,Wallet,1
+ORD01050,Sports,1087,16.7,2.2,1,Credit Card,0
+ORD01051,Electronics,2346,35.2,,1,UPI,0
+ORD01052,Electronics,3016,40.1,4.5,0,UPI,0
+ORD01053,Home & Kitchen,981,19.3,3.1,4,UPI,0
+ORD01054,Home & Kitchen,1202,4.6,,5,UPI,0
+ORD01055,Fashion,435,47.5,1.9,3,Credit Card,0
+ORD01056,Grocery,415,18.0,2.0,3,UPI,0
+ORD01057,Grocery,299,13.9,5.9,4,Wallet,0
+ORD01058,Fashion,1142,24.8,1.7,1,Credit Card,0
+ORD01059,Grocery,291,43.9,5.5,0,UPI,1
+ORD01060,Books,591,28.8,3.2,1,Debit Card,0
+ORD01061,Home & Kitchen,2140,3.7,2.3,2,UPI,0
+ORD01062,Fashion,1775,20.5,1.8,,UPI,0
+ORD01063,Electronics,2476,11.4,8.1,5,Debit Card,0
+ORD01064,Grocery,333,28.9,3.3,3,UPI,0
+ORD01065,Fashion,1438,35.7,5.5,5,Cash on Delivery,1
+ORD01066,Beauty,599,32.0,5.9,1,Credit Card,1
+ORD01067,Beauty,495,40.9,6.0,6,Debit Card,0
+ORD01068,Grocery,139,8.9,6.4,0,Credit Card,0
+ORD01069,Books,377,10.6,2.5,2,Credit Card,0
+ORD01070,Books,524,9.4,,1,Credit Card,0
+ORD01071,Fashion,772,13.1,5.5,4,UPI,0
+ORD01072,Sports,1015,42.7,4.1,1,Cash on Delivery,0
+ORD01073,Home & Kitchen,1642,9.3,3.8,3,Cash on Delivery,0
+ORD01074,Sports,2441,15.6,2.3,2,Wallet,0
+ORD01075,Fashion,1087,16.9,3.9,2,Debit Card,0
+ORD01076,Fashion,1484,29.1,2.7,1,UPI,0
+ORD01077,Books,402,24.3,3.8,0,Cash on Delivery,0
+ORD01078,Grocery,311,22.6,2.9,1,UPI,0
+ORD01079,Fashion,564,29.6,1.6,,Debit Card,0
+ORD01080,Fashion,1756,21.7,5.2,8,Credit Card,0
+ORD01081,Beauty,575,8.8,6.4,4,UPI,0
+ORD01082,Beauty,913,10.9,5.3,5,Cash on Delivery,0
+ORD01083,Fashion,1575,41.5,,0,Wallet,0
+ORD01084,Sports,852,24.5,5.5,,Cash on Delivery,0
+ORD01085,Electronics,1324,22.2,5.0,3,Wallet,0
+ORD01086,Books,526,15.2,4.3,4,Wallet,0
+ORD01087,Fashion,1079,39.2,5.3,6,Cash on Delivery,0
+ORD01088,Beauty,393,40.6,5.4,3,Cash on Delivery,1
+ORD01089,Electronics,1718,22.7,4.9,7,Wallet,0
+ORD01090,Books,357,13.9,3.9,4,Credit Card,0
+ORD01091,Electronics,2385,30.8,6.7,,Credit Card,0
+ORD01092,Fashion,1008,39.4,2.5,0,Credit Card,0
+ORD01093,Sports,954,34.1,3.1,1,UPI,0
+ORD01094,Home & Kitchen,2110,25.3,3.3,1,Cash on Delivery,1
+ORD01095,Sports,1350,0.0,1.0,0,Credit Card,0
+ORD01096,Fashion,877,16.9,5.6,,Cash on Delivery,0
+ORD01097,Electronics,4467,28.0,2.6,0,UPI,0
+ORD01098,Fashion,758,15.2,5.0,1,UPI,0
+ORD01099,Grocery,118,12.2,,4,UPI,0
+ORD01100,Beauty,814,23.5,2.8,1,Debit Card,0
+ORD01101,Books,697,24.1,4.5,2,Credit Card,0
+ORD01102,Electronics,2428,11.0,2.1,2,Credit Card,0
+ORD01103,Sports,1188,20.8,,0,Credit Card,0
+ORD01104,Fashion,1293,32.1,5.8,1,Cash on Delivery,1
+ORD01105,Home & Kitchen,1476,6.6,5.0,,UPI,0
+ORD01106,Books,422,37.3,2.0,4,UPI,0
+ORD01107,Fashion,942,22.8,2.4,1,UPI,0
+ORD01108,Beauty,382,32.2,3.9,2,Wallet,1
+ORD01109,Beauty,513,25.6,,5,Cash on Delivery,0
+ORD01110,Fashion,1263,23.6,1.3,4,Wallet,0
+ORD01111,Grocery,509,19.8,6.0,1,Credit Card,0
+ORD01112,Electronics,3264,41.3,2.7,6,UPI,1
+ORD01113,Sports,646,25.0,3.1,5,UPI,0
+ORD01114,Sports,1002,27.4,2.5,5,Cash on Delivery,0
+ORD01115,Beauty,640,4.5,,,Debit Card,0
+ORD01116,Beauty,689,25.0,4.8,0,Credit Card,0
+ORD01117,Beauty,1449,30.5,4.4,3,Credit Card,0
+ORD01118,Sports,808,35.8,6.1,3,Cash on Delivery,0
+ORD01119,Home & Kitchen,1701,38.5,3.6,,Cash on Delivery,0
+ORD01120,Fashion,863,45.3,7.3,5,UPI,1
+ORD01121,Fashion,858,41.2,6.5,1,Credit Card,1
+ORD01122,Grocery,197,33.3,3.5,,Cash on Delivery,0
+ORD01123,Fashion,1318,22.6,5.5,1,Credit Card,0
+ORD01124,Electronics,3181,13.6,5.4,3,UPI,0
+ORD01125,Books,395,41.3,4.3,2,UPI,1
+ORD01126,Fashion,1336,36.5,3.9,2,Credit Card,1
+ORD01127,Home & Kitchen,1654,32.9,7.4,4,UPI,0
+ORD01128,Grocery,304,29.4,5.9,0,Wallet,0
+ORD01129,Grocery,283,41.2,4.9,1,Cash on Delivery,0
+ORD01130,Beauty,1142,15.9,3.9,0,Debit Card,0
+ORD01131,Electronics,2857,27.7,3.2,,Cash on Delivery,0
+ORD01132,Home & Kitchen,1789,26.9,4.4,3,Debit Card,0
+ORD01133,Fashion,755,26.9,7.2,1,Cash on Delivery,0
+ORD01134,Beauty,599,11.6,5.9,3,UPI,0
+ORD01135,Electronics,2149,15.3,4.1,2,UPI,0
+ORD01136,Beauty,1128,18.0,6.3,3,UPI,0
+ORD01137,Electronics,1356,22.6,4.2,3,Credit Card,1
+ORD01138,Electronics,2120,35.5,6.0,6,Credit Card,1
+ORD01139,Electronics,2586,32.9,4.9,2,Cash on Delivery,1
+ORD01140,Grocery,322,6.7,5.2,1,Wallet,0
+ORD01141,Electronics,1036,9.9,5.3,,Wallet,0
+ORD01142,Beauty,705,28.3,3.9,4,Credit Card,0
+ORD01143,Home & Kitchen,1486,15.7,4.9,0,Credit Card,0
+ORD01144,Grocery,181,32.1,4.3,6,Cash on Delivery,1
+ORD01145,Fashion,727,39.8,,1,UPI,1
+ORD01146,Fashion,945,10.9,4.5,1,UPI,1
+ORD01147,Home & Kitchen,1821,13.4,4.0,0,UPI,1
+ORD01148,Grocery,434,28.1,7.0,2,Credit Card,0
+ORD01149,Beauty,522,22.6,6.3,6,Cash on Delivery,0
+ORD01150,Sports,1044,19.8,1.5,3,Credit Card,0
+ORD01151,Electronics,2807,32.4,,0,Credit Card,0
+ORD01152,Electronics,2543,23.7,3.0,1,UPI,1
+ORD01153,Electronics,2081,22.2,4.7,5,Credit Card,0
+ORD01154,Home & Kitchen,908,44.7,5.3,3,Debit Card,0
+ORD01155,Electronics,2125,20.5,,4,Wallet,0
+ORD01156,Electronics,3759,48.7,6.8,4,Debit Card,0
+ORD01157,Home & Kitchen,815,6.0,3.1,0,Wallet,0
+ORD01158,Sports,1615,11.8,6.2,0,Debit Card,0
+ORD01159,Books,295,8.2,4.4,4,Credit Card,0
+ORD01160,Home & Kitchen,3029,17.7,8.6,1,Debit Card,0
+ORD01161,Fashion,916,26.6,6.1,,Wallet,1
+ORD01162,Grocery,433,22.1,7.7,6,Debit Card,0
+ORD01163,Grocery,371,26.6,,4,Wallet,0
+ORD01164,Fashion,1349,20.2,6.0,3,Debit Card,0
+ORD01165,Grocery,408,22.8,6.8,5,Debit Card,0
+ORD01166,Electronics,797,4.1,5.2,0,UPI,0
+ORD01167,Home & Kitchen,1814,31.2,6.6,5,Cash on Delivery,0
+ORD01168,Fashion,839,31.2,4.7,2,Wallet,0
+ORD01169,Fashion,974,24.8,,0,Wallet,1
+ORD01170,Beauty,650,13.3,4.9,5,Debit Card,0
+ORD01171,Electronics,1921,32.3,6.7,1,Wallet,1
+ORD01172,Home & Kitchen,1010,31.4,5.7,6,Cash on Delivery,1
+ORD01173,Grocery,685,30.9,,4,Debit Card,0
+ORD01174,Grocery,297,26.8,7.1,8,UPI,0
+ORD01175,Grocery,431,23.0,3.5,5,Cash on Delivery,0
+ORD01176,Electronics,1948,12.1,6.4,4,UPI,0
+ORD01177,Fashion,1284,32.1,4.1,4,Debit Card,0
+ORD01178,Home & Kitchen,1204,25.3,4.1,2,UPI,0
+ORD01179,Home & Kitchen,1074,13.1,4.7,2,Debit Card,0
+ORD01180,Grocery,411,16.7,2.7,3,Debit Card,0
+ORD01181,Fashion,854,35.7,6.9,2,Credit Card,0
+ORD01182,Home & Kitchen,1170,13.0,5.7,0,Credit Card,0
+ORD01183,Beauty,755,17.6,8.0,4,UPI,0
+ORD01184,Home & Kitchen,1515,30.2,3.1,4,Credit Card,0
+ORD01185,Electronics,2246,9.5,1.8,1,UPI,0
+ORD01186,Fashion,1971,27.0,1.8,,Debit Card,0
+ORD01187,Grocery,261,29.2,5.7,6,Credit Card,0
+ORD01188,Electronics,1405,17.5,7.7,0,UPI,0
+ORD01189,Books,443,15.1,3.1,1,Wallet,0
+ORD01190,Home & Kitchen,990,31.2,4.4,1,UPI,0
+ORD01191,Home & Kitchen,1485,31.9,4.5,2,Credit Card,0
+ORD01192,Fashion,1499,21.6,2.9,9,Credit Card,0
+ORD01193,Electronics,1287,16.4,3.0,4,Credit Card,0
+ORD01194,Beauty,2085,26.8,6.0,3,Credit Card,0
+ORD01195,Fashion,1042,22.8,7.4,2,UPI,0
+ORD01196,Fashion,1304,25.1,5.0,3,Wallet,0
+ORD01197,Beauty,933,45.1,2.9,3,Credit Card,0
+ORD01198,Fashion,856,25.0,,0,Debit Card,0
+ORD01199,Home & Kitchen,1834,38.1,7.8,1,Credit Card,0
+ORD01200,Fashion,1610,34.4,4.2,3,Debit Card,0
+ORD01201,Home & Kitchen,1005,19.3,6.5,0,Cash on Delivery,0
+ORD01202,Fashion,1061,21.7,4.2,0,Debit Card,1
+ORD01203,Electronics,2503,19.7,5.8,3,Cash on Delivery,0
+ORD01204,Fashion,600,23.0,6.7,2,Debit Card,0
+ORD01205,Home & Kitchen,922,29.3,3.8,3,Debit Card,0
+ORD01206,Sports,1822,24.9,5.8,4,UPI,0
+ORD01207,Home & Kitchen,1180,26.3,4.5,3,Debit Card,0
+ORD01208,Beauty,556,3.9,3.2,,Wallet,0
+ORD01209,Grocery,341,20.9,2.4,3,Credit Card,0
+ORD01210,Home & Kitchen,1029,26.6,9.3,0,Credit Card,0
+ORD01211,Electronics,2131,38.4,5.0,3,UPI,0
+ORD01212,Electronics,1743,30.2,6.5,1,Credit Card,0
+ORD01213,Beauty,579,21.2,3.7,2,Credit Card,0
+ORD01214,Fashion,3005,25.6,4.9,2,Credit Card,1
+ORD01215,Sports,892,23.6,3.7,,Debit Card,0
+ORD01216,Electronics,3502,37.3,7.0,5,UPI,0
+ORD01217,Fashion,1552,14.3,4.0,4,UPI,0
+ORD01218,Electronics,1383,41.4,6.9,0,UPI,1
+ORD01219,Electronics,1949,30.3,3.6,5,UPI,0
+ORD01220,Beauty,512,38.4,7.0,0,UPI,1
+ORD01221,Electronics,2137,10.5,6.3,3,Credit Card,0
+ORD01222,Electronics,2835,39.4,6.1,4,Cash on Delivery,1
+ORD01223,Home & Kitchen,1429,32.3,5.5,2,Credit Card,0
+ORD01224,Electronics,1418,28.4,,1,Credit Card,0
+ORD01225,Home & Kitchen,1263,23.7,6.1,7,UPI,0
+ORD01226,Grocery,389,21.7,2.6,1,Credit Card,0
+ORD01227,Fashion,2309,32.4,6.2,3,Credit Card,0
+ORD01228,Books,527,29.6,2.8,7,UPI,0
+ORD01229,Fashion,413,37.6,5.5,,Wallet,0
+ORD01230,Home & Kitchen,1495,27.1,,,UPI,0
+ORD01231,Sports,1624,11.8,6.9,6,Credit Card,0
+ORD01232,Books,462,0.0,4.3,,Credit Card,0
+ORD01233,Sports,1145,31.5,4.5,,UPI,0
+ORD01234,Electronics,1717,47.2,5.0,,Wallet,0
+ORD01235,Books,155,24.0,5.2,4,Debit Card,0
+ORD01236,Fashion,1264,34.3,,3,Debit Card,0
+ORD01237,Fashion,2211,36.6,5.1,5,Credit Card,0
+ORD01238,Home & Kitchen,2602,39.2,6.0,4,Debit Card,0
+ORD01239,Home & Kitchen,935,30.3,5.4,6,Cash on Delivery,0
+ORD01240,Beauty,467,27.0,4.9,5,Credit Card,0
+ORD01241,Fashion,791,26.6,7.6,2,Cash on Delivery,0
+ORD01242,Home & Kitchen,617,15.3,3.2,,Credit Card,0
+ORD01243,Electronics,1647,25.2,1.8,5,Credit Card,0
+ORD01244,Fashion,952,32.4,,4,Credit Card,0
+ORD01245,Beauty,1860,37.5,3.0,2,Debit Card,1
+ORD01246,Books,313,35.4,3.2,3,UPI,0
+ORD01247,Books,233,3.7,6.6,4,UPI,0
+ORD01248,Fashion,859,31.4,6.0,0,Debit Card,1
+ORD01249,Fashion,1166,27.5,4.2,0,Credit Card,0
+ORD01250,Grocery,478,29.8,6.1,5,Wallet,0
+ORD01251,Beauty,585,19.7,3.4,5,UPI,0
+ORD01252,Electronics,4175,9.7,7.4,0,Debit Card,0
+ORD01253,Electronics,2289,42.3,2.0,6,UPI,0
+ORD01254,Fashion,894,21.1,3.5,3,Credit Card,0
+ORD01255,Home & Kitchen,1467,5.6,6.6,6,Cash on Delivery,0
+ORD01256,Fashion,931,26.7,5.2,,Cash on Delivery,0
+ORD01257,Sports,2628,5.4,5.2,5,UPI,0
+ORD01258,Beauty,391,19.7,6.2,3,Wallet,0
+ORD01259,Grocery,370,10.1,5.5,1,UPI,0
+ORD01260,Electronics,1691,2.4,4.9,0,Credit Card,0
+ORD01261,Electronics,2973,34.1,6.2,0,Cash on Delivery,0
+ORD01262,Grocery,264,12.9,3.5,1,Credit Card,0
+ORD01263,Home & Kitchen,1093,33.6,6.6,3,UPI,1
+ORD01264,Fashion,1392,21.1,4.8,1,Cash on Delivery,0
+ORD01265,Books,786,31.8,3.2,4,Credit Card,0
+ORD01266,Books,477,29.8,7.7,2,Debit Card,0
+ORD01267,Home & Kitchen,1434,10.1,3.1,7,Credit Card,0
+ORD01268,Beauty,486,36.0,2.2,7,UPI,0
+ORD01269,Electronics,1339,16.4,4.2,2,Credit Card,0
+ORD01270,Fashion,821,20.9,3.9,5,UPI,0
+ORD01271,Home & Kitchen,1624,27.3,6.2,1,UPI,1
+ORD01272,Electronics,2847,22.4,6.2,2,Credit Card,0
+ORD01273,Fashion,1172,30.2,5.1,4,Credit Card,0
+ORD01274,Fashion,825,30.1,6.2,2,Debit Card,1
+ORD01275,Books,416,8.7,3.8,2,Cash on Delivery,1
+ORD01276,Fashion,1217,29.7,2.9,3,Debit Card,0
+ORD01277,Electronics,3057,42.1,3.7,5,UPI,0
+ORD01278,Books,454,16.8,,2,Debit Card,0
+ORD01279,Fashion,1553,17.6,1.5,0,Credit Card,0
+ORD01280,Beauty,891,34.7,4.8,6,Debit Card,0
+ORD01281,Fashion,1191,6.8,6.3,,Debit Card,1
+ORD01282,Electronics,1634,38.8,3.3,0,UPI,1
+ORD01283,Sports,1335,14.5,6.5,0,UPI,0
+ORD01284,Beauty,436,38.7,3.6,5,Debit Card,0
+ORD01285,Books,297,11.8,2.9,0,Debit Card,0
+ORD01286,Fashion,719,19.1,5.0,7,Credit Card,0
+ORD01287,Fashion,1065,47.3,5.1,3,Debit Card,0
+ORD01288,Sports,914,45.4,,3,Debit Card,0
+ORD01289,Grocery,369,52.8,3.7,2,Credit Card,0
+ORD01290,Fashion,1592,30.8,,0,UPI,0
+ORD01291,Books,568,36.6,6.7,2,Debit Card,0
+ORD01292,Beauty,1577,30.7,7.4,4,Credit Card,1
+ORD01293,Electronics,2165,24.0,5.5,4,UPI,0
+ORD01294,Home & Kitchen,1789,29.4,4.7,1,Credit Card,0
+ORD01295,Fashion,1300,38.7,6.8,0,Debit Card,0
+ORD01296,Grocery,269,27.2,3.5,3,Credit Card,0
+ORD01297,Sports,885,26.3,3.5,5,Credit Card,0
+ORD01298,Home & Kitchen,617,17.6,1.0,1,Credit Card,0
+ORD01299,Sports,1066,17.0,6.0,2,Cash on Delivery,0
+ORD01300,Home & Kitchen,1419,10.0,4.0,4,Credit Card,0
+ORD01301,Home & Kitchen,1130,6.3,4.5,9,Cash on Delivery,0
+ORD01302,Electronics,1287,44.2,6.2,0,Debit Card,1
+ORD01303,Fashion,549,32.3,2.8,8,Debit Card,0
+ORD01304,Sports,1055,32.4,2.2,2,Debit Card,0
+ORD01305,Home & Kitchen,830,36.0,3.1,3,Credit Card,1
+ORD01306,Fashion,696,33.5,4.4,0,Debit Card,0
+ORD01307,Home & Kitchen,1390,21.1,5.3,6,Debit Card,0
+ORD01308,Books,331,3.4,5.1,0,Credit Card,0
+ORD01309,Electronics,2320,17.1,4.4,0,Debit Card,0
+ORD01310,Electronics,4217,49.5,2.8,3,UPI,1
+ORD01311,Fashion,1162,39.4,8.3,4,Credit Card,1
+ORD01312,Home & Kitchen,461,7.5,3.5,,UPI,0
+ORD01313,Home & Kitchen,810,26.4,6.4,1,Credit Card,1
+ORD01314,Fashion,1432,15.9,5.4,0,Cash on Delivery,0
+ORD01315,Home & Kitchen,1640,29.0,6.5,3,Cash on Delivery,0
+ORD01316,Home & Kitchen,879,28.5,4.6,5,Credit Card,0
+ORD01317,Fashion,1071,25.1,2.6,8,UPI,0
+ORD01318,Fashion,2458,41.4,6.8,1,Credit Card,1
+ORD01319,Fashion,426,21.3,5.9,3,Cash on Delivery,1
+ORD01320,Books,352,33.9,5.9,6,Credit Card,0
+ORD01321,Beauty,466,7.9,1.3,1,Credit Card,0
+ORD01322,Sports,1935,28.9,3.7,1,Debit Card,0
+ORD01323,Fashion,863,20.6,7.5,3,Cash on Delivery,0
+ORD01324,Home & Kitchen,813,8.0,5.5,2,Debit Card,0
+ORD01325,Fashion,496,50.1,4.7,5,Credit Card,0
+ORD01326,Electronics,1638,31.1,3.6,6,UPI,0
+ORD01327,Fashion,516,34.9,3.8,10,Debit Card,0
+ORD01328,Electronics,1511,34.2,4.9,2,Debit Card,0
+ORD01329,Beauty,653,0.0,4.2,3,Cash on Delivery,0
+ORD01330,Electronics,3186,33.6,4.9,4,Debit Card,0
+ORD01331,Grocery,208,10.5,3.0,2,Cash on Delivery,0
+ORD01332,Books,564,36.1,6.3,2,Cash on Delivery,1
+ORD01333,Beauty,755,32.6,3.7,1,Debit Card,0
+ORD01334,Fashion,793,22.6,5.7,0,Credit Card,1
+ORD01335,Fashion,1041,24.1,4.2,2,Cash on Delivery,1
+ORD01336,Books,720,10.1,5.1,2,Wallet,0
+ORD01337,Fashion,1311,18.4,2.7,1,Credit Card,0
+ORD01338,Home & Kitchen,1023,15.8,5.8,1,Debit Card,0
+ORD01339,Grocery,227,16.1,6.5,1,Cash on Delivery,0
+ORD01340,Electronics,2864,36.4,3.1,,Credit Card,0
+ORD01341,Electronics,7109,27.9,3.2,3,Credit Card,0
+ORD01342,Electronics,1569,22.3,1.8,4,Debit Card,0
+ORD01343,Home & Kitchen,1018,24.1,4.8,1,Debit Card,0
+ORD01344,Sports,722,39.0,1.0,,Wallet,0
+ORD01345,Home & Kitchen,874,18.7,4.2,1,Wallet,0
+ORD01346,Grocery,340,33.6,3.5,2,Credit Card,0
+ORD01347,Books,355,0.0,4.3,0,Debit Card,0
+ORD01348,Fashion,869,30.7,4.0,1,Credit Card,0
+ORD01349,Home & Kitchen,2674,7.5,4.4,0,UPI,0
+ORD01350,Beauty,871,19.0,4.7,4,Credit Card,0
+ORD01351,Home & Kitchen,1076,19.7,5.6,0,Debit Card,0
+ORD01352,Sports,634,44.1,6.9,7,Cash on Delivery,0
+ORD01353,Electronics,2354,10.4,3.4,1,Cash on Delivery,0
+ORD01354,Grocery,347,35.5,3.4,8,UPI,0
+ORD01355,Sports,865,45.2,5.3,2,Debit Card,1
+ORD01356,Fashion,848,42.6,4.7,,UPI,1
+ORD01357,Electronics,2832,28.0,2.2,2,UPI,0
+ORD01358,Fashion,860,19.9,2.7,2,Credit Card,0
+ORD01359,Grocery,389,19.7,8.3,4,Debit Card,0
+ORD01360,Electronics,987,32.7,3.0,2,Debit Card,0
+ORD01361,Home & Kitchen,683,25.6,6.7,0,Debit Card,0
+ORD01362,Home & Kitchen,1076,38.0,6.7,8,Cash on Delivery,0
+ORD01363,Home & Kitchen,881,29.9,4.9,,UPI,0
+ORD01364,Fashion,1253,45.8,5.7,1,Cash on Delivery,0
+ORD01365,Books,267,42.3,4.3,4,Credit Card,0
+ORD01366,Home & Kitchen,1271,31.5,6.1,1,UPI,0
+ORD01367,Fashion,979,22.0,,,Credit Card,0
+ORD01368,Fashion,1346,21.9,3.9,5,Debit Card,1
+ORD01369,Electronics,1826,25.0,2.2,5,Credit Card,0
+ORD01370,Electronics,2797,23.2,4.0,3,UPI,0
+ORD01371,Fashion,2022,54.1,4.3,3,Credit Card,1
+ORD01372,Beauty,559,21.2,5.1,0,Wallet,0
+ORD01373,Books,381,39.8,5.1,6,UPI,0
+ORD01374,Grocery,570,17.5,6.2,3,UPI,0
+ORD01375,Electronics,1599,8.2,3.0,0,Debit Card,1
+ORD01376,Electronics,1357,7.7,4.2,6,Cash on Delivery,0
+ORD01377,Grocery,621,12.6,3.7,2,Debit Card,0
+ORD01378,Fashion,1457,28.3,5.6,1,Credit Card,1
+ORD01379,Electronics,2655,30.2,1.1,1,Debit Card,0
+ORD01380,Fashion,1309,39.6,2.6,2,UPI,0
+ORD01381,Beauty,786,27.1,4.1,2,UPI,0
+ORD01382,Fashion,1282,7.5,7.7,2,Cash on Delivery,1
+ORD01383,Beauty,1306,15.1,8.2,3,Cash on Delivery,0
+ORD01384,Fashion,1829,31.2,4.2,1,UPI,1
+ORD01385,Fashion,633,37.5,4.8,0,Cash on Delivery,1
+ORD01386,Sports,725,13.8,5.6,5,Cash on Delivery,0
+ORD01387,Home & Kitchen,1812,40.8,2.3,5,UPI,0
+ORD01388,Sports,1485,21.0,3.7,,Credit Card,0
+ORD01389,Grocery,462,32.7,1.5,3,Debit Card,0
+ORD01390,Electronics,1932,26.2,5.3,3,UPI,1
+ORD01391,Books,308,39.0,,0,UPI,0
+ORD01392,Sports,832,21.0,5.7,4,Debit Card,0
+ORD01393,Beauty,731,41.2,6.6,2,Credit Card,0
+ORD01394,Fashion,582,25.8,5.4,2,UPI,0
+ORD01395,Home & Kitchen,1401,22.5,,9,UPI,0
+ORD01396,Beauty,845,53.7,1.4,1,UPI,1
+ORD01397,Sports,1008,20.0,5.9,2,Cash on Delivery,0
+ORD01398,Electronics,2505,14.9,,3,Debit Card,0
+ORD01399,Fashion,1013,28.2,4.2,1,UPI,0
+ORD01400,Beauty,1246,14.2,4.8,0,Credit Card,0
+ORD01401,Sports,4660,36.9,2.1,0,Credit Card,1
+ORD01402,Electronics,2523,42.7,1.0,1,Wallet,0
+ORD01403,Electronics,2837,8.7,4.8,0,Debit Card,0
+ORD01404,Books,338,29.5,8.3,0,Credit Card,0
+ORD01405,Beauty,579,25.3,4.6,3,Debit Card,0
+ORD01406,Sports,1070,27.6,4.9,4,Cash on Delivery,1
+ORD01407,Books,190,34.8,4.0,0,Debit Card,0
+ORD01408,Home & Kitchen,1758,28.3,2.6,2,Credit Card,1
+ORD01409,Electronics,3324,34.0,5.4,3,Wallet,0
+ORD01410,Electronics,1496,39.6,4.7,3,Credit Card,0
+ORD01411,Sports,585,15.1,,1,Cash on Delivery,1
+ORD01412,Fashion,1298,29.4,3.0,8,Wallet,0
+ORD01413,Sports,2980,24.8,6.3,,UPI,0
+ORD01414,Beauty,637,31.5,5.9,1,UPI,0
+ORD01415,Fashion,747,26.3,4.8,4,Cash on Delivery,1
+ORD01416,Home & Kitchen,1020,13.6,1.0,2,Wallet,1
+ORD01417,Sports,2215,15.0,5.3,9,Cash on Delivery,0
+ORD01418,Electronics,5229,47.4,3.1,9,UPI,0
+ORD01419,Fashion,1584,36.6,,5,Debit Card,0
+ORD01420,Electronics,1540,4.9,4.3,2,Cash on Delivery,0
+ORD01421,Books,473,30.1,7.1,2,Credit Card,0
+ORD01422,Fashion,1563,32.9,8.3,6,Cash on Delivery,0
+ORD01423,Beauty,580,10.6,2.9,3,Credit Card,0
+ORD01424,Fashion,1016,29.8,3.0,1,Cash on Delivery,1
+ORD01425,Fashion,844,35.7,5.2,4,UPI,0
+ORD01426,Fashion,1071,41.2,6.1,3,Credit Card,0
+ORD01427,Grocery,740,25.5,,9,Cash on Delivery,0
+ORD01428,Sports,1083,35.4,6.6,3,Debit Card,0
+ORD01429,Electronics,1484,19.6,5.3,3,Credit Card,1
+ORD01430,Beauty,452,36.4,2.3,4,UPI,0
+ORD01431,Electronics,2752,10.0,3.1,5,Credit Card,0
+ORD01432,Sports,860,10.7,2.9,0,UPI,0
+ORD01433,Books,766,27.2,6.2,5,UPI,0
+ORD01434,Sports,965,35.7,6.7,3,UPI,0
+ORD01435,Grocery,449,27.4,7.2,0,Credit Card,1
+ORD01436,Fashion,844,16.0,4.4,0,UPI,0
+ORD01437,Home & Kitchen,1193,16.0,5.5,,Cash on Delivery,0
+ORD01438,Electronics,909,12.6,4.3,1,Cash on Delivery,0
+ORD01439,Home & Kitchen,3285,21.7,8.0,5,Cash on Delivery,0
+ORD01440,Fashion,1474,20.5,3.7,6,UPI,0
+ORD01441,Books,106,12.4,3.3,0,Wallet,0
+ORD01442,Books,431,15.8,5.0,8,Debit Card,0
+ORD01443,Sports,830,26.4,4.6,2,Credit Card,0
+ORD01444,Grocery,236,10.4,4.8,1,Credit Card,0
+ORD01445,Books,276,4.8,4.2,3,Cash on Delivery,0
+ORD01446,Sports,1200,39.9,5.8,0,Credit Card,0
+ORD01447,Sports,792,35.9,6.9,,Credit Card,1
+ORD01448,Electronics,3273,20.4,6.3,2,Debit Card,0
+ORD01449,Electronics,1728,37.2,5.3,2,UPI,0
+ORD01450,Grocery,391,33.2,7.7,0,UPI,0
+ORD01451,Grocery,518,18.8,7.9,3,Credit Card,0
+ORD01452,Fashion,2089,23.5,2.3,6,Cash on Delivery,0
+ORD01453,Grocery,265,15.7,6.4,6,Wallet,0
+ORD01454,Home & Kitchen,728,2.5,4.2,3,Credit Card,0
+ORD01455,Home & Kitchen,1538,8.0,3.6,0,UPI,0
+ORD01456,Home & Kitchen,1656,13.2,5.5,0,UPI,0
+ORD01457,Fashion,1184,34.7,6.4,6,UPI,0
+ORD01458,Beauty,1287,8.9,3.7,3,Debit Card,0
+ORD01459,Home & Kitchen,1596,8.7,3.7,2,Cash on Delivery,0
+ORD01460,Sports,1858,12.7,2.8,,Credit Card,1
+ORD01461,Books,669,21.0,3.5,0,UPI,0
+ORD01462,Fashion,900,55.0,6.8,4,Credit Card,1
+ORD01463,Home & Kitchen,2023,31.5,3.9,1,Credit Card,0
+ORD01464,Fashion,470,30.4,4.8,4,UPI,0
+ORD01465,Electronics,2682,36.2,2.9,4,Credit Card,0
+ORD01466,Grocery,485,34.7,5.3,4,Debit Card,0
+ORD01467,Grocery,187,22.7,4.7,1,Debit Card,0
+ORD01468,Beauty,763,20.4,4.9,0,UPI,0
+ORD01469,Electronics,2538,40.0,5.0,4,Credit Card,1
+ORD01470,Books,571,12.2,3.5,0,Cash on Delivery,0
+ORD01471,Home & Kitchen,1773,16.6,7.5,3,Debit Card,1
+ORD01472,Electronics,1904,22.5,6.5,2,Credit Card,0
+ORD01473,Sports,613,3.4,2.5,6,UPI,0
+ORD01474,Fashion,740,45.1,1.0,3,UPI,1
+ORD01475,Fashion,996,15.4,5.4,1,UPI,1
+ORD01476,Grocery,227,13.9,4.7,,Cash on Delivery,0
+ORD01477,Fashion,999,20.9,3.1,3,Credit Card,0
+ORD01478,Home & Kitchen,1108,40.3,1.8,4,UPI,0
+ORD01479,Fashion,589,19.4,6.2,3,Debit Card,0
+ORD01480,Beauty,688,15.4,,3,Credit Card,0
+ORD01481,Books,416,34.1,2.9,2,UPI,0
+ORD01482,Fashion,800,15.0,3.5,0,Credit Card,1
+ORD01483,Electronics,1199,26.3,3.4,4,UPI,0
+ORD01484,Fashion,1979,34.0,,0,Cash on Delivery,1
+ORD01485,Home & Kitchen,1056,15.2,1.9,1,Credit Card,0
+ORD01486,Grocery,539,15.1,3.5,5,Debit Card,0
+ORD01487,Fashion,594,48.0,6.9,0,UPI,0
+ORD01488,Sports,1207,41.8,5.6,0,Credit Card,0
+ORD01489,Sports,1195,34.2,4.8,5,Debit Card,0
+ORD01490,Home & Kitchen,1724,7.7,4.2,3,Cash on Delivery,0
+ORD01491,Books,290,13.7,3.9,2,Wallet,0
+ORD01492,Sports,359,10.2,1.8,,Debit Card,0
+ORD01493,Electronics,1945,39.9,4.1,6,Cash on Delivery,1
+ORD01494,Grocery,388,24.6,,1,Credit Card,0
+ORD01495,Books,497,35.0,5.1,2,Debit Card,0
+ORD01496,Electronics,2156,37.7,,5,Credit Card,0
+ORD01497,Beauty,509,17.4,4.5,0,Cash on Delivery,1
+ORD01498,Beauty,600,35.3,1.8,4,Credit Card,0
+ORD01499,Electronics,2697,9.3,4.8,0,Debit Card,0
+ORD01500,Home & Kitchen,1310,42.5,4.1,5,Debit Card,1
