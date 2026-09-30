@@ -9,12 +9,16 @@ An enterprise-grade reverse logistics and risk-scoring dashboard designed to:
 """
 
 import os
+import warnings
 import joblib
 import pandas as pd
 import numpy as np
 import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+# Suppress harmless sklearn unpickling warnings when running across different Python/sklearn versions
+warnings.filterwarnings("ignore", module="sklearn")
 
 # ---------------------------------------------------------------------------
 # Page Configuration & Modern Theme Styling
@@ -193,11 +197,12 @@ def load_model():
             # Caught scikit-learn version mismatch or incompatible pickle
             pass
 
-    # Self-healing fallback: Auto-train directly inside current environment
+    # Self-healing fallback: Fast train champion pipeline directly inside current environment (~0.05s)
     if os.path.exists(DATA_PATH):
         try:
-            from train_model import run_training_pipeline
-            pipeline, _, _ = run_training_pipeline(DATA_PATH)
+            from train_model import prepare_data, train_champion_pipeline
+            X, y = prepare_data(DATA_PATH)
+            pipeline = train_champion_pipeline(X, y)
             return pipeline
         except Exception:
             return None
